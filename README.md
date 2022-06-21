@@ -10,3 +10,7 @@ Contenu de ce ressource pack
 - Stargate 4.2 resource HD
 - VanillaTweaks - No Pumpkin Overlay
 - VanillaTweaks - HD Shield Banner Patterns
+- [WL] Beekeeper
+- [WL] Better Interior
+- [WL] Ravager Jockey
+

@@ -1,0 +1,13 @@
+{
+	"parent": "minecraft:item/handheld_rod",
+  	"textures": {
+    	"layer0": "minecraft:item/carrot_on_a_stick"
+  	},
+
+	"overrides": [
+		{"predicate": {"custom_model_data":260062}, 
+		 "model": "custom/goat_horn"},
+		{"predicate": {"custom_model_data":261162}, 
+		 "model": "custom/rabbit_on_a_stick"}
+	]
+}

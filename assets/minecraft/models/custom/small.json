@@ -1,0 +1,6 @@
+{
+    "parent": "custom/model_small",
+    "textures": {
+        "texture": "whiteline:items/st"
+    }
+}

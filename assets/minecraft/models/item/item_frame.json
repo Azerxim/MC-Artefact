@@ -1,0 +1,13 @@
+{
+	"parent": "minecraft:item/generated",
+  	"textures": {
+    	"layer0": "minecraft:item/item_frame"
+  	},
+
+	"overrides": [
+		{"predicate": {"custom_model_data":241142}, 
+		 "model": "custom/carpenter_table_item"},
+		{"predicate": {"custom_model_data":24111142}, 
+		 "model": "custom/carpenter_table_view"}
+	]
+}
