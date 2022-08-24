@@ -1,0 +1,27 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [67, 67],
+	"textures": {
+		"0": "gui/advencments/1",
+		"particle": "gui/advencments/1"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 0],
+			"faces": {
+				"north": {"uv": [0, 0, 15.99952, 15.99952], "texture": "#0"},
+				"east": {"uv": [0, 0, 0.23881, 3.8209], "texture": "#missing"},
+				"south": {"uv": [0, 0, 3.8209, 3.8209], "texture": "#missing"},
+				"west": {"uv": [0, 0, 0.23881, 3.8209], "texture": "#missing"},
+				"up": {"uv": [0, 0, 3.8209, 0.23881], "texture": "#missing"},
+				"down": {"uv": [0, 0, 3.8209, 0.23881], "texture": "#missing"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [0, -180, 0]
+		}
+	}
+}

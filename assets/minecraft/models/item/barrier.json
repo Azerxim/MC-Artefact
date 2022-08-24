@@ -1,0 +1,16 @@
+{
+  "parent": "item/generated",
+  "textures": {
+	"layer0": "item/barrier"
+  },
+  "overrides": [
+	  { "predicate": { "custom_model_data": 10000001 }, "model": "gui/advencments/1"},
+	  { "predicate": { "custom_model_data": 10000002 }, "model": "gui/advencments/2"},
+	  { "predicate": { "custom_model_data": 10000003 }, "model": "gui/advencments/3"},
+	  { "predicate": { "custom_model_data": 10000004 }, "model": "gui/advencments/4"},
+	  { "predicate": { "custom_model_data": 10000005 }, "model": "gui/advencments/5"},
+	  { "predicate": { "custom_model_data": 10000006 }, "model": "gui/advencments/6"},
+	  { "predicate": { "custom_model_data": 10000007 }, "model": "gui/advencments/7"},
+	  { "predicate": { "custom_model_data": 10000008 }, "model": "gui/advencments/8"}
+	]
+}

@@ -1,0 +1,23 @@
+{
+ "parent": "item/handheld",
+ "textures": {
+  "layer0": "item/wooden_sword"
+ },
+
+ "overrides": [
+  { "predicate": {"custom_model_data": 100000}, "model": "item/rabbit_brown"},
+  { "predicate": {"custom_model_data": 100001}, "model": "item/bugnet"},
+  { "predicate": {"custom_model_data": 100002}, "model": "item/bee_item"},
+  { "predicate": {"custom_model_data": 100003}, "model": "item/rabbit_black"},
+  { "predicate": {"custom_model_data": 100004}, "model": "item/rabbit_caerbannog"},
+  { "predicate": {"custom_model_data": 100005}, "model": "item/rabbit_gold"},
+  { "predicate": {"custom_model_data": 100006}, "model": "item/rabbit_salt"},
+  { "predicate": {"custom_model_data": 100007}, "model": "item/rabbit_taost"},
+  { "predicate": {"custom_model_data": 100008}, "model": "item/rabbit_white"},
+  { "predicate": {"custom_model_data": 100009}, "model": "item/rabbit_white_splotched"}
+
+
+ ]
+
+ 
+}
