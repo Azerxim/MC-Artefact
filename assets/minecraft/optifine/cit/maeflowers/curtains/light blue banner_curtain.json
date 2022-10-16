@@ -1,0 +1,108 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "block/curtains/curtain rod",
+		"1": "block/curtains/light blue curtains",
+		"particle": "block/curtains/curtain rod"
+	},
+	"elements": [
+		{
+			"name": "rod",
+			"from": [0, 28.5, -0.5],
+			"to": [16, 29.5, 0.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [3, 0, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 1], "texture": "#0"},
+				"east": {"uv": [0, 0, 1, 1], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 1], "texture": "#0"},
+				"west": {"uv": [0, 0, 1, 1], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 1], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 1], "texture": "#0"}
+			}
+		},
+		{
+			"name": "rod",
+			"from": [-1, 28, -1],
+			"to": [1, 30, 1],
+			"faces": {
+				"north": {"uv": [0, 0, 2, 2], "texture": "#0"},
+				"east": {"uv": [0, 0, 2, 2], "texture": "#0"},
+				"south": {"uv": [0, 0, 2, 2], "texture": "#0"},
+				"west": {"uv": [0, 0, 2, 2], "texture": "#0"},
+				"up": {"uv": [0, 0, 2, 2], "texture": "#0"},
+				"down": {"uv": [0, 0, 2, 2], "texture": "#0"}
+			}
+		},
+		{
+			"name": "rod",
+			"from": [15, 28, -1],
+			"to": [17, 30, 1],
+			"faces": {
+				"north": {"uv": [0, 0, 2, 2], "texture": "#0"},
+				"east": {"uv": [0, 0, 2, 2], "texture": "#0"},
+				"south": {"uv": [0, 0, 2, 2], "texture": "#0"},
+				"west": {"uv": [0, 0, 2, 2], "texture": "#0"},
+				"up": {"uv": [0, 0, 2, 2], "texture": "#0"},
+				"down": {"uv": [0, 0, 2, 2], "texture": "#0"}
+			}
+		},
+		{
+			"from": [2.5, -16, -0.25],
+			"to": [13.5, 29, -0.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [2.5, 0, 0]},
+			"faces": {
+				"north": {"uv": [0.25, 0.5, 3.75, 15.75], "texture": "#1"},
+				"east": {"uv": [0, 0, 0, 11.25], "texture": "#missing"},
+				"south": {"uv": [0.25, 0.5, 3.75, 15.75], "texture": "#1"},
+				"west": {"uv": [0, 0, 0, 11.25], "texture": "#missing"},
+				"up": {"uv": [0, 0, 4, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 4, 0], "texture": "#missing"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, 0, 0],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 0, 2.75],
+			"scale": [0.3, 0.3, 0.31]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 0, 2.75],
+			"scale": [0.3, 0.3, 0.31]
+		},
+		"ground": {
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"gui": {
+			"rotation": [0, -180, 0],
+			"translation": [-0.5, 0, 0],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"fixed": {
+			"translation": [0, -31, 18],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "curtain rod",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0, 1, 2]
+		},
+		{
+			"name": "r curtain 2",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [3]
+		}
+	]
+}

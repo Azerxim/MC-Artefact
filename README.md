@@ -7,11 +7,11 @@ Minecraft server resource pack
 Contenu de ce ressource pack
 
 - Bastion Artefacts
-- Beach Update datapack textures
-- Stargate 4.2 resource HD
 - VanillaTweaks - No Pumpkin Overlay
 - VanillaTweaks - HD Shield Banner Patterns
-- [WL] Beekeeper
-- [WL] Better Interior
-- [WL] Ravager Jockey
-
+- VanillaTweaks - Accurate Spyglass
+- VanillaTweaks - Circular Sun & Moon
+- PlayStation5_CIT - Khaled_Shooter
+- [CIT Pack | maeflowers](https://maeflowersmc.wixsite.com/minecraft)
+- Cat Ears
+- Beach Update datapack textures

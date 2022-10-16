@@ -1,6 +1,0 @@
-{
-    "parent": "custom/model_smallpos",
-    "textures": {
-        "texture": "whiteline:items/sp"
-    }
-}
