@@ -1,0 +1,6 @@
+{
+	"parent": "./wooden_hammer_1",
+	"textures": {
+		"0": "./netherite_hammer_1"
+	}
+}

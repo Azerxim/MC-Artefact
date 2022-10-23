@@ -1,0 +1,7 @@
+{
+	"parent": "./branch_3",
+	"textures": {
+		"0": "block/jungle_log",
+		"1": "block/jungle_log_top"
+	}
+}

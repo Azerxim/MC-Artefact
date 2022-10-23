@@ -1,0 +1,6 @@
+{
+	"parent": "./stone_edge_1",
+	"textures": {
+		"0": "block/diorite"
+	}
+}

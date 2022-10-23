@@ -1,0 +1,140 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/diamond_axe"
+  },
+  "overrides": [
+	{
+	  "predicate": {
+		"custom_model_data": 455008
+      },
+	  "model": "item/diamond_star"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455014
+      },
+	  "model": "item/diamond_greatsword"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455016
+      },
+	  "model": "item/diamond_claymore"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455017
+      },
+	  "model": "item/diamond_konda"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455018
+      },
+	  "model": "item/diamond_executioner"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455019
+      },
+	  "model": "item/diamond_fist"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455020
+      },
+	  "model": "item/diamond_gauntlet"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455021
+      },
+	  "model": "item/diamond_claws"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455022
+      },
+	  "model": "item/diamond_talons"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455023
+      },
+	  "model": "item/diamond_knuckles"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455032
+      },
+	  "model": "item/diamond_hatchet"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455033
+      },
+	  "model": "item/diamond_battleaxe"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455034
+      },
+	  "model": "item/diamond_labrys"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455035
+      },
+	  "model": "item/diamond_waraxe"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455036
+      },
+	  "model": "item/diamond_greataxe"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455037
+      },
+	  "model": "item/diamond_mace"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455038
+      },
+	  "model": "item/diamond_morningstar"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455041
+      },
+	  "model": "item/diamond_paxel"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455042
+      },
+	  "model": "item/diamond_greatpick"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455044
+      },
+	  "model": "item/diamond_hammer"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455045
+      },
+	  "model": "item/diamond_maul"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455046
+      },
+	  "model": "item/diamond_greathammer"
+	}
+  ]
+}

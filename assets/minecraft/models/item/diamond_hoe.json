@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/diamond_hoe"
+  },
+  "overrides": [
+	{
+	  "predicate": {
+		"custom_model_data": 455049
+      },
+	  "model": "item/diamond_mattock"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455050
+      },
+	  "model": "item/diamond_pitchfork"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455051
+      },
+	  "model": "item/diamond_sickle"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455052
+      },
+	  "model": "item/diamond_crook"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455053
+      },
+	  "model": "item/diamond_scythe"
+	}
+  ]
+}

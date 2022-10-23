@@ -1,0 +1,140 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/golden_axe"
+  },
+  "overrides": [
+	{
+	  "predicate": {
+		"custom_model_data": 455008
+      },
+	  "model": "item/golden_star"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455014
+      },
+	  "model": "item/golden_greatsword"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455016
+      },
+	  "model": "item/golden_claymore"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455017
+      },
+	  "model": "item/golden_konda"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455018
+      },
+	  "model": "item/golden_executioner"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455019
+      },
+	  "model": "item/golden_fist"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455020
+      },
+	  "model": "item/golden_gauntlet"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455021
+      },
+	  "model": "item/golden_claws"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455022
+      },
+	  "model": "item/golden_talons"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455023
+      },
+	  "model": "item/golden_knuckles"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455032
+      },
+	  "model": "item/golden_hatchet"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455033
+      },
+	  "model": "item/golden_battleaxe"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455034
+      },
+	  "model": "item/golden_labrys"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455035
+      },
+	  "model": "item/golden_waraxe"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455036
+      },
+	  "model": "item/golden_greataxe"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455037
+      },
+	  "model": "item/golden_mace"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455038
+      },
+	  "model": "item/golden_morningstar"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455041
+      },
+	  "model": "item/golden_paxel"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455042
+      },
+	  "model": "item/golden_greatpick"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455044
+      },
+	  "model": "item/golden_hammer"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455045
+      },
+	  "model": "item/golden_maul"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455046
+      },
+	  "model": "item/golden_greathammer"
+	}
+  ]
+}

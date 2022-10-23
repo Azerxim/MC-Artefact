@@ -1,0 +1,6 @@
+{
+	"parent": "./oak_retaining_1",
+	"textures": {
+		"0": "block/dark_oak_planks"
+	}
+}

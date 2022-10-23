@@ -1,0 +1,62 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/diamond_pickaxe"
+  },
+  "overrides": [
+	{
+	  "predicate": {
+		"custom_model_data": 455039
+      },
+	  "model": "item/diamond_minipick"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455040
+      },
+	  "model": "item/diamond_warpick"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455041
+      },
+	  "model": "item/diamond_paxel"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455042
+      },
+	  "model": "item/diamond_greatpick"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455043
+      },
+	  "model": "item/diamond_mallet"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455044
+      },
+	  "model": "item/diamond_hammer"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455045
+      },
+	  "model": "item/diamond_maul"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455046
+      },
+	  "model": "item/diamond_greathammer"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455048
+      },
+	  "model": "item/diamond_mattock"
+	}
+  ]
+}

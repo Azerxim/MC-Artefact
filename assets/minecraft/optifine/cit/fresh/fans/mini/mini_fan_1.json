@@ -1,0 +1,7 @@
+{
+	"parent": "./mini_fan_1a",
+	"textures": {
+		"0": "./mini_fan_1",
+		"particle": "./mini_fan_1"
+	}
+}

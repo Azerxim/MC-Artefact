@@ -1,0 +1,44 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/wooden_shovel"
+  },
+  "overrides": [
+	{
+	  "predicate": {
+		"custom_model_data": 455041
+      },
+	  "model": "item/wooden_paxel"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455047
+      },
+	  "model": "item/wooden_trowel"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455048
+      },
+	  "model": "item/wooden_spade"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455050
+      },
+	  "model": "item/wooden_pitchfork"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455055
+      },
+	  "model": "item/wooden_spoon"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455056
+      },
+	  "model": "item/wooden_ladle"
+	}
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/stone_axe"
+  },
+  "overrides": [
+	{
+	  "predicate": {
+		"custom_model_data": 455008
+      },
+	  "model": "item/stone_star"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455014
+      },
+	  "model": "item/stone_greatsword"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455016
+      },
+	  "model": "item/stone_claymore"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455017
+      },
+	  "model": "item/stone_konda"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455018
+      },
+	  "model": "item/stone_executioner"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455023
+      },
+	  "model": "item/stone_knuckles"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455032
+      },
+	  "model": "item/stone_hatchet"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455033
+      },
+	  "model": "item/stone_battleaxe"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455034
+      },
+	  "model": "item/stone_labrys"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455035
+      },
+	  "model": "item/stone_waraxe"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455036
+      },
+	  "model": "item/stone_greataxe"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455037
+      },
+	  "model": "item/stone_mace"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455038
+      },
+	  "model": "item/stone_morningstar"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455041
+      },
+	  "model": "item/stone_paxel"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455042
+      },
+	  "model": "item/stone_greatpick"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455044
+      },
+	  "model": "item/stone_hammer"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455045
+      },
+	  "model": "item/stone_maul"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455046
+      },
+	  "model": "item/stone_greathammer"
+	}
+  ]
+}

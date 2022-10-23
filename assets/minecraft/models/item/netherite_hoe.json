@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/netherite_hoe"
+  },
+  "overrides": [
+	{
+	  "predicate": {
+		"custom_model_data": 455049
+      },
+	  "model": "item/netherite_mattock"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455050
+      },
+	  "model": "item/netherite_pitchfork"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455051
+      },
+	  "model": "item/netherite_sickle"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455052
+      },
+	  "model": "item/netherite_crook"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455053
+      },
+	  "model": "item/netherite_scythe"
+	}
+  ]
+}

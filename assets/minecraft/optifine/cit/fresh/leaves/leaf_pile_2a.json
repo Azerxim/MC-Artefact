@@ -1,0 +1,6 @@
+{
+	"parent": "./leaf_pile_2",
+	"textures": {
+		"0": "./green_leaf_pile"
+	}
+}

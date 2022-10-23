@@ -1,0 +1,140 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/iron_axe"
+  },
+  "overrides": [
+	{
+	  "predicate": {
+		"custom_model_data": 455008
+      },
+	  "model": "item/iron_star"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455014
+      },
+	  "model": "item/iron_greatsword"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455016
+      },
+	  "model": "item/iron_claymore"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455017
+      },
+	  "model": "item/iron_konda"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455018
+      },
+	  "model": "item/iron_executioner"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455019
+      },
+	  "model": "item/iron_fist"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455020
+      },
+	  "model": "item/iron_gauntlet"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455021
+      },
+	  "model": "item/iron_claws"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455022
+      },
+	  "model": "item/iron_talons"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455023
+      },
+	  "model": "item/iron_knuckles"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455032
+      },
+	  "model": "item/iron_hatchet"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455033
+      },
+	  "model": "item/iron_battleaxe"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455034
+      },
+	  "model": "item/iron_labrys"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455035
+      },
+	  "model": "item/iron_waraxe"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455036
+      },
+	  "model": "item/iron_greataxe"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455037
+      },
+	  "model": "item/iron_mace"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455038
+      },
+	  "model": "item/iron_morningstar"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455041
+      },
+	  "model": "item/iron_paxel"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455042
+      },
+	  "model": "item/iron_greatpick"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455044
+      },
+	  "model": "item/iron_hammer"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455045
+      },
+	  "model": "item/iron_maul"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455046
+      },
+	  "model": "item/iron_greathammer"
+	}
+  ]
+}

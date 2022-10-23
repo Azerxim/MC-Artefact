@@ -1,0 +1,8 @@
+{
+	"parent": "./rail_buffers_1",
+	"textures": {
+		"1": "./rail_large_2",
+		"particle": "./buffers_1a",
+		"2_0": "./buffers_1a"
+	}
+}

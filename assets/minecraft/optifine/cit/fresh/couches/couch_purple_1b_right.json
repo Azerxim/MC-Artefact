@@ -1,0 +1,6 @@
+{
+	"parent": "./couch_1_right",
+	"textures": {
+		"0": "./couch_purple_1b"
+	}
+}
