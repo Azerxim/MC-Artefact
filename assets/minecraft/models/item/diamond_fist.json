@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "extended_equipment/diamond_fist",
-		"particle": "extended_equipment/diamond_fist"
+		"0": "item/extended_equipment/diamond_fist",
+		"particle": "item/extended_equipment/diamond_fist"
 	},
 	"elements": [
 		{

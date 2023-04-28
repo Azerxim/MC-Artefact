@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "extended_equipment/stone_partisan"
+		"layer0": "item/extended_equipment/stone_partisan"
 	},
 	"display": {
 		"thirdperson_righthand": {

@@ -1,7 +1,8 @@
 {
 	"parent": "./template_flower_0_wall",
 	"textures": {
-		"flower": "./poppy_0",
-		"flower_01": "./poppy_0_01"
+		"0": "./poppy_0",
+		"1": "./poppy_0_01",
+		"1_0": "./hanging_basket"
 	}
 }

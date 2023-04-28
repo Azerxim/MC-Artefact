@@ -1,10 +1,6 @@
 {
 	"parent": "./cit_item_wall",
 	"ambientocclusion": false,
-	"textures": {
-		"0": "./leather_frame",
-		"1": "#leather"
-	},
 	"elements": [
 		{
 			"from": [2, 19, 0],

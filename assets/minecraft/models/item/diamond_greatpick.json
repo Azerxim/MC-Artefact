@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "extended_equipment/diamond_greatpick"
+		"layer0": "item/extended_equipment/diamond_greatpick"
 	},
 	"display": {
 		"thirdperson_righthand": {

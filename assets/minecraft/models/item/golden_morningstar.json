@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "extended_equipment/golden_morningstar"
+		"layer0": "item/extended_equipment/golden_morningstar"
 	},
 	"display": {
 		"thirdperson_righthand": {

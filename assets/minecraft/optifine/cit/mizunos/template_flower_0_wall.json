@@ -1,11 +1,6 @@
 {
 	"parent": "./cit_item_wallflower",
 	"ambientocclusion": false,
-	"textures": {
-		"0": "#flower",
-		"1": "#flower_01",
-		"1_0": "./hanging_basket"
-	},
 	"elements": [
 		{
 			"from": [5, 0, 5],

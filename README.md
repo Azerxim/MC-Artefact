@@ -17,5 +17,4 @@ Contenu de ce ressource pack
 - Cat Ears
 - Mizunos 16 Craft JE CIT 1.19-1.0
 - Fresh CIT
-- Dee's Extended Equipment
-- Beach Update datapack textures
+- Dee's Extended Equipment (custom fix 1.19.4)

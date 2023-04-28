@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "extended_equipment/golden_quarterstaff"
+		"layer0": "item/extended_equipment/golden_quarterstaff"
 	},
 	"display": {
 		"thirdperson_righthand": {

@@ -1,6 +1,7 @@
 {
 	"parent": "./template_leather_0_wall",
 	"textures": {
-		"leather": "./leather_0"
+		"0": "./leather_frame",
+		"1": "./leather_0"
 	}
 }

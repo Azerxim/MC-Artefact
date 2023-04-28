@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "extended_equipment/stone_scythe"
+		"layer0": "item/extended_equipment/stone_scythe"
 	},
 	"display": {
 		"thirdperson_righthand": {

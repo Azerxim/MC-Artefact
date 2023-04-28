@@ -1,12 +1,6 @@
 {
 	"parent": "./cit_item",
 	"ambientocclusion": false,
-	"textures": {
-		"0": "#tulip_0",
-		"1": "#tulip_1",
-		"1_0": "./tulip_planter",
-		"1_1": "./tulip_planter_01"
-	},
 	"elements": [
 		{
 			"from": [2, 1, 4],

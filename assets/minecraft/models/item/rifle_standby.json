@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "extended_equipment/crossbow/rifle_standby"
+		"layer0": "item/extended_equipment/crossbow/rifle_standby"
 	},
 	"display": {
 		"thirdperson_righthand": {

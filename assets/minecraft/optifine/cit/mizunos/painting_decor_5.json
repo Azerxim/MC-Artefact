@@ -2,7 +2,7 @@
 	"parent": "./cit_item_wall",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "./painting_decor_5 "
+		"0": "./painting_decor_5"
 	},
 	"elements": [
 		{
