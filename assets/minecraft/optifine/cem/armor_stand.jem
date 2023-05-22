@@ -1,0 +1,89 @@
+{
+	"textureSize": [64, 64],
+	"models": [
+		{
+			"part": "head",
+			"id": "camera_1_head",
+			"model": "camera_1_head.jpm",
+			"attach": "true",
+			"translate": [0, 0, 0],
+			"rotate": [0, 0, 0]
+		},
+		{
+			"part": "body",
+			"id": "camera_1_base",
+			"model": "camera_1_base.jpm",
+			"attach": "true",
+			"translate": [0, 0, 0],
+			"rotate": [0, 0, 0]
+		},
+		{
+			"part": "head",
+			"id": "player",
+			"model": "player_head.jpm",
+			"attach": "true",
+			"translate": [0, -1, 0],
+			"rotate": [0, 0, 0]
+		},
+		{
+			"part": "body",
+			"id": "player",
+			"model": "player_body.jpm",
+			"attach": "true",
+			"translate": [0, 0, 0],
+			"rotate": [0, 0, 0]
+		},
+		{
+			"part": "right_arm",
+			"id": "player",
+			"model": "player_right_arm.jpm",
+			"attach": "true",
+			"translate": [0, 0, 0],
+			"rotate": [0, 0, 0],
+		"animations": [
+			{
+				"this.rx": "sin(torad(180) + limb_swing/1.5) * limb_speed"
+			}
+		]
+		},
+		{
+			"part": "left_arm",
+			"id": "player",
+			"model": "player_left_arm.jpm",
+			"attach": "true",
+			"translate": [0, 0, 0],
+			"rotate": [0, 0, 0],
+		"animations": [
+			{
+				"this.rx": "sin(torad(0) + limb_swing/1.5) * limb_speed"
+			}
+		]
+		},
+		{
+			"part": "right_leg",
+			"id": "player",
+			"model": "player_right_leg.jpm",
+			"attach": "true",
+			"translate": [0, 0, 0],
+			"rotate": [0, 0, 0],
+		"animations": [
+			{
+				"this.rx": "sin(torad(0) + limb_swing/1.5) * limb_speed"
+			}
+		]
+		},
+		{
+			"part": "left_leg",
+			"id": "player",
+			"model": "player_left_leg.jpm",
+			"attach": "true",
+			"translate": [0, 0, 0],
+			"rotate": [0, 0, 0],
+		"animations": [
+			{
+				"this.rx": "sin(torad(180) + limb_swing/1.5) * limb_speed"
+			}
+		]
+		}
+	]
+}

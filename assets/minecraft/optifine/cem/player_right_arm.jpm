@@ -1,0 +1,16 @@
+{
+	"texture": "textures/entity/armorstand/player_model",
+	"textureSize": [64, 64],
+	"credit": "Made with Blockbench",
+	"boxes": [
+		{
+			"coordinates": [-2, -2, -2, 3, 12, 4],
+			"uvNorth": [44, 20, 47, 32],
+			"uvEast": [40, 20, 44, 32],
+			"uvSouth": [51, 20, 54, 32],
+			"uvWest": [47, 20, 51, 32],
+			"uvUp": [47, 20, 44, 16],
+			"uvDown": [50, 16, 47, 20]
+		}
+	]
+}

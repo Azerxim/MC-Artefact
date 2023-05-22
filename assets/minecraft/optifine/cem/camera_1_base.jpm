@@ -1,0 +1,67 @@
+{
+	"texture": "textures/entity/armorstand/camera_classic",
+	"textureSize": [64, 32],
+	"credit": "Made with Blockbench",
+	"submodels": [
+		{
+			"id": "leg_back",
+			"rotate": [15, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-0.5, 0.67615, -0.68118, 1, 24, 1],
+					"uvNorth": [39, 1, 40, 25],
+					"uvEast": [36, 1, 37, 25],
+					"uvSouth": [37, 1, 38, 25],
+					"uvWest": [38, 1, 39, 25],
+					"uvUp": [37, 26, 38, 27],
+					"uvDown": [38, 26, 39, 27]
+				}
+			]
+		},
+		{
+			"id": "leg_left",
+			"rotate": [0, 0, -15],
+			"boxes": [
+				{
+					"coordinates": [-0.68118, 0.67614, -0.5, 1, 24, 1],
+					"uvNorth": [38, 1, 39, 25],
+					"uvEast": [39, 1, 40, 25],
+					"uvSouth": [36, 1, 37, 25],
+					"uvWest": [37, 1, 38, 25],
+					"uvUp": [37, 26, 38, 27],
+					"uvDown": [38, 26, 39, 27]
+				}
+			]
+		},
+		{
+			"id": "leg_right",
+			"rotate": [0, 0, 15],
+			"boxes": [
+				{
+					"coordinates": [-0.31882, 0.67615, -0.5, 1, 24, 1],
+					"uvNorth": [36, 1, 37, 25],
+					"uvEast": [37, 1, 38, 25],
+					"uvSouth": [38, 1, 39, 25],
+					"uvWest": [39, 1, 40, 25],
+					"uvUp": [37, 26, 38, 27],
+					"uvDown": [38, 26, 39, 27]
+				}
+			]
+		},
+		{
+			"id": "leg_front",
+			"rotate": [-15, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-0.5, 0.67614, -0.31882, 1, 24, 1],
+					"uvNorth": [37, 1, 38, 25],
+					"uvEast": [38, 1, 39, 25],
+					"uvSouth": [39, 1, 40, 25],
+					"uvWest": [36, 1, 37, 25],
+					"uvUp": [37, 26, 38, 27],
+					"uvDown": [38, 26, 39, 27]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"textureSize": [64, 32],
+	"models": 
+	[
+		{
+			"part": "dirt",
+			"id": "cart_minerals",
+			"model": "cart_minerals.jpm",
+			"invertAxis": "xy",
+			"translate": [0, -25, 0],
+			"rotate": [90, 90, 0]
+		}
+	]
+}
