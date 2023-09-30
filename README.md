@@ -1,7 +1,7 @@
 # Artefact
 Minecraft server resource pack
 
-[Download](https://download.topazdev.fr/projets/resourcespack/artefacts/)
+[Download](https://dl.topazdev.fr/projets?d=/resourcespack/artefacts)
 
 
 Contenu de ce ressource pack
