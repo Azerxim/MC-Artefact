@@ -1,10 +1,14 @@
-# Artefact
-Minecraft server resource pack
+[![Download on Modrinth](https://dl.topazdev.fr/stock/images/web/modrinth.svg)](https://modrinth.com/resourcepack/artefacts)
+
+This pack contains custom 2D and 3D models used by the Minecraft Bastion Universe (MBU) server.
+
+[![TopazDev](https://dl.topazdev.fr/stock/images/web/topazdev-smoothwhite.png)](https://minecraft.topazdev.fr/)
+
 
 [Download](https://dl.topazdev.fr/projets?d=/resourcespack/artefacts)
 
 
-Contenu de ce ressource pack
+Contenu de ce ressource pack (MBU Version)
 
 - Bastion Artefacts
 - VanillaTweaks - No Pumpkin Overlay
