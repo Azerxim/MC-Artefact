@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/extended_equipment/netherite_gauntlet",
-		"particle": "item/extended_equipment/netherite_gauntlet"
+		"0": "extended_equipment/netherite_gauntlet",
+		"particle": "extended_equipment/netherite_gauntlet"
 	},
 	"elements": [
 		{

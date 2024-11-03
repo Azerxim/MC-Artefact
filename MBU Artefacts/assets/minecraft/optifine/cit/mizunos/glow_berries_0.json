@@ -1,7 +1,7 @@
 {
 	"parent": "./cit_item",
 	"textures": {
-		"0": "./glow_brrries_0"
+		"0": "./glow_brries_0"
 	},
 	"elements": [
 		{

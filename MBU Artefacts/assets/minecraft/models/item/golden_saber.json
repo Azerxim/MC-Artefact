@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "item/extended_equipment/golden_saber"
+		"layer0": "extended_equipment/golden_saber"
 	},
 	"display": {
 		"thirdperson_righthand": {

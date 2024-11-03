@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "item/extended_equipment/diamond_greathammer"
+		"layer0": "extended_equipment/diamond_greathammer"
 	},
 	"display": {
 		"thirdperson_righthand": {

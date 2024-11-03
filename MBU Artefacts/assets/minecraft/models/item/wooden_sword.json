@@ -363,6 +363,42 @@
 		"custom_model_data": 455073
       },
 	  "model": "item/lightsword_pink"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455074
+      },
+	  "model": "item/wooden_butterfly"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455075
+      },
+	  "model": "item/wooden_double"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455076
+      },
+	  "model": "item/wooden_double"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455077
+      },
+	  "model": "item/wooden_dragonslayer"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455078
+      },
+	  "model": "item/wooden_caneaxe"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455079
+      },
+	  "model": "item/wooden_tonfa"
 	}
   ]
 }

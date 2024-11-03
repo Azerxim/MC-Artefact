@@ -1,7 +1,7 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "minecraft:item/extended_equipment/lightsword_lime"
+    "layer0": "minecraft:extended_equipment/lightsword_lime"
 	},
 	"display": {
 		"thirdperson_righthand": {

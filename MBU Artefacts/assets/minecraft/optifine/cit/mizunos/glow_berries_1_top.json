@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "./basket",
 		"1": "./basket_0",
-		"2": "./glow_brrries_0"
+		"2": "./glow_brries_0"
 	},
 	"elements": [
 		{

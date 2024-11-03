@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "item/extended_equipment/netherite_guandao"
+		"layer0": "extended_equipment/netherite_guandao"
 	},
 	"display": {
 		"thirdperson_righthand": {

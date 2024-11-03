@@ -135,6 +135,24 @@
 		"custom_model_data": 455046
       },
 	  "model": "item/golden_greathammer"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455076
+      },
+	  "model": "item/golden_crowbar"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455077
+      },
+	  "model": "item/golden_dragonslayer"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455078
+      },
+	  "model": "item/golden_caneaxe"
 	}
   ]
 }

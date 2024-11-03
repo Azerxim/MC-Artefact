@@ -1,6 +1,6 @@
 {
     "parent": "builtin/generated",
-	"gui_light": "front",
+    "gui_light": "front",
     "display": {
         "ground": {
             "rotation": [ 0, 0, 0 ],
@@ -24,6 +24,7 @@
         },
         "fixed": {
             "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 0.9 ],
             "scale": [ 2, 2, 2 ]
         }
     }

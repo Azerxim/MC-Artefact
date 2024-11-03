@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "item/extended_equipment/iron_labrys"
+		"layer0": "extended_equipment/iron_labrys"
 	},
 	"display": {
 		"thirdperson_righthand": {

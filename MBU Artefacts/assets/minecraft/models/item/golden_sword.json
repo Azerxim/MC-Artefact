@@ -387,6 +387,42 @@
 		"custom_model_data": 455073
       },
 	  "model": "item/lightsword_pink"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455074
+      },
+	  "model": "item/golden_butterfly"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455075
+      },
+	  "model": "item/golden_double"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455076
+      },
+	  "model": "item/golden_crowbar"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455077
+      },
+	  "model": "item/golden_dragonslayer"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455078
+      },
+	  "model": "item/golden_caneaxe"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455079
+      },
+	  "model": "item/golden_tonfa"
 	}
   ]
 }

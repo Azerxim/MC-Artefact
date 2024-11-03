@@ -387,6 +387,42 @@
 		"custom_model_data": 455073
       },
 	  "model": "item/lightsword_pink"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455074
+      },
+	  "model": "item/diamond_butterfly"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455075
+      },
+	  "model": "item/diamond_double"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455076
+      },
+	  "model": "item/diamond_crowbar"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455077
+      },
+	  "model": "item/diamond_dragonslayer"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455078
+      },
+	  "model": "item/diamond_caneaxe"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455079
+      },
+	  "model": "item/diamond_tonfa"
 	}
   ]
 }

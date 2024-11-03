@@ -1,10 +1,10 @@
-{ 
+{
   "pack": {
-    "pack_format": 13,
+    "pack_format": 34,
     "supported_formats": {
-       "min_inclusive": 13,
-       "max_inclusive": 18
+      "min_inclusive": 34,
+      "max_inclusive": 34
     },
-    "description": "Artefacts 3.0"
+    "description": "Artefacts 4.0"
   }
 }

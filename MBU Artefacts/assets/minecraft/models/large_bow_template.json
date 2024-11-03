@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "item/extended_equipment/bow/bow_test"
+		"layer0": "extended_equipment/bow/bow_test"
 	},
 	"overrides": [
 		{

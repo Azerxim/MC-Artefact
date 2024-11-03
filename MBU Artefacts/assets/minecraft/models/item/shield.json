@@ -125,6 +125,19 @@
 				"blocking": 1
             },
             "model": "item/arm_shield_netherite_blocking"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 455007
+            },
+            "model": "item/tower"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 455007,
+				"blocking": 1
+            },
+            "model": "item/tower_blocking"
         }
     ]
 }

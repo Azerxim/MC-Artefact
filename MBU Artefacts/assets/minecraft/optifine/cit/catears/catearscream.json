@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "block/catearscream",
-		"particle": "block/catearsorange"
+		"2": "block/catears/cream",
+		"particle": "block/catears/orange"
 	},
 	"elements": [
 		{

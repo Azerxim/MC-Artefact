@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "minecraft:item/extended_equipment/golden_hatchet"
+    "layer0": "minecraft:extended_equipment/golden_hatchet"
   }
 }

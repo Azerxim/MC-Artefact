@@ -111,6 +111,18 @@
 		"custom_model_data": 455046
       },
 	  "model": "item/stone_greathammer"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455077
+      },
+	  "model": "item/stone_dragonslayer"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455078
+      },
+	  "model": "item/stone_caneaxe"
 	}
   ]
 }

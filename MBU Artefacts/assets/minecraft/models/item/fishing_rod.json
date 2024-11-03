@@ -1,0 +1,79 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "item/fishing_rod"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "cast": 1
+            },
+            "model": "item/fishing_rod_cast"
+        },
+		{
+		  "predicate": {
+			"custom_model_data": 455001
+		  },
+		  "model": "item/copper_fishing_rod"
+		},
+        {
+            "predicate": {
+				"custom_model_data": 455001,
+                "cast": 1
+            },
+            "model": "item/copper_fishing_rod_cast"
+        },
+		{
+		  "predicate": {
+			"custom_model_data": 455002
+		  },
+		  "model": "item/iron_fishing_rod"
+		},
+        {
+            "predicate": {
+				"custom_model_data": 455002,
+                "cast": 1
+            },
+            "model": "item/iron_fishing_rod_cast"
+        },
+		{
+		  "predicate": {
+			"custom_model_data": 455003
+		  },
+		  "model": "item/golden_fishing_rod"
+		},
+        {
+            "predicate": {
+				"custom_model_data": 455003,
+                "cast": 1
+            },
+            "model": "item/golden_fishing_rod_cast"
+        },
+		{
+		  "predicate": {
+			"custom_model_data": 455004
+		  },
+		  "model": "item/diamond_fishing_rod"
+		},
+        {
+            "predicate": {
+				"custom_model_data": 455004,
+                "cast": 1
+            },
+            "model": "item/diamond_fishing_rod_cast"
+        },
+		{
+		  "predicate": {
+			"custom_model_data": 455005
+		  },
+		  "model": "item/netherite_fishing_rod"
+		},
+        {
+            "predicate": {
+				"custom_model_data": 455005,
+                "cast": 1
+            },
+            "model": "item/netherite_fishing_rod_cast"
+        }
+    ]
+}

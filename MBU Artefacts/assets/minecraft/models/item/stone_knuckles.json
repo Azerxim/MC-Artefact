@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "item/extended_equipment/stone_knuckles"
+		"layer0": "extended_equipment/stone_knuckles"
 	},
 	"display": {
 		"thirdperson_righthand": {

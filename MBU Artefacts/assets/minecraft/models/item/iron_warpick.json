@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "minecraft:item/extended_equipment/iron_warpick"
+    "layer0": "minecraft:extended_equipment/iron_warpick"
   }
 }

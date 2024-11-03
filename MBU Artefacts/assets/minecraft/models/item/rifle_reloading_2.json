@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "item/extended_equipment/crossbow/rifle_reloading_2"
+		"layer0": "extended_equipment/crossbow/rifle_reloading_2"
 	},
 	"display": {
 		"thirdperson_righthand": {

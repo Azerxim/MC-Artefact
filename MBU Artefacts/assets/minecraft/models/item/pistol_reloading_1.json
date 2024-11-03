@@ -1,7 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/extended_equipment/crossbow/pistol_reloading_1"
+        "layer0": "extended_equipment/crossbow/pistol_reloading_1"
     },
     "display": {
         "thirdperson_righthand": {

@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/extended_equipment/golden_fist",
-		"particle": "item/extended_equipment/golden_fist"
+		"0": "extended_equipment/golden_fist",
+		"particle": "extended_equipment/golden_fist"
 	},
 	"elements": [
 		{

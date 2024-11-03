@@ -3,7 +3,7 @@
 	"texture_size": [64, 64],
     "gui_light": "front",
 	"textures": {
-		"0": "item/extended_equipment/shield/parma/shield_parma_base_nopattern"
+		"0": "extended_equipment/shield/parma/shield_parma_base_nopattern"
 	},
 	"elements": [
 		{

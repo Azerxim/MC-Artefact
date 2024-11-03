@@ -135,6 +135,24 @@
 		"custom_model_data": 455046
       },
 	  "model": "item/netherite_greathammer"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455076
+      },
+	  "model": "item/netherite_crowbar"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455077
+      },
+	  "model": "item/netherite_dragonslayer"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455078
+      },
+	  "model": "item/netherite_caneaxe"
 	}
   ]
 }

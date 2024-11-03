@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "item/extended_equipment/diamond_longsword"
+		"layer0": "extended_equipment/diamond_longsword"
 	},
 	"display": {
 		"thirdperson_righthand": {

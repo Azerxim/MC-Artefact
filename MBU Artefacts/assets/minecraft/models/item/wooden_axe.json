@@ -111,6 +111,18 @@
 		"custom_model_data": 455046
       },
 	  "model": "item/wooden_greathammer"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455077
+      },
+	  "model": "item/wooden_dragonslayer"
+	},
+	{
+	  "predicate": {
+		"custom_model_data": 455078
+      },
+	  "model": "item/wooden_caneaxe"
 	}
   ]
 }
