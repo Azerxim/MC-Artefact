@@ -4,425 +4,429 @@
     "layer0": "minecraft:item/netherite_sword"
   },
   "overrides": [
-	{
-	  "predicate": {
-		"custom_model_data": 455001
-      },
-	  "model": "item/netherite_gladius"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455002
-      },
-	  "model": "item/netherite_falchion"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455003
-      },
-	  "model": "item/netherite_scimitar"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455004
-      },
-	  "model": "item/netherite_cutlass"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455005
-      },
-	  "model": "item/netherite_katana"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455006
-      },
-	  "model": "item/netherite_rapier"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455007
-      },
-	  "model": "item/netherite_saber"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455008
-      },
-	  "model": "item/netherite_star"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455009
-      },
-	  "model": "item/netherite_shortsword"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455010
-      },
-	  "model": "item/netherite_dagger"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455011
-      },
-	  "model": "item/netherite_cinquedea"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455012
-      },
-	  "model": "item/netherite_sai"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455013
-      },
-	  "model": "item/netherite_longsword"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455014
-      },
-	  "model": "item/netherite_greatsword"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455015
-      },
-	  "model": "item/netherite_odachi"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455016
-      },
-	  "model": "item/netherite_claymore"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455017
-      },
-	  "model": "item/netherite_konda"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455018
-      },
-	  "model": "item/netherite_executioner"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455019
-      },
-	  "model": "item/netherite_fist"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455020
-      },
-	  "model": "item/netherite_gauntlet"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455021
-      },
-	  "model": "item/netherite_claws"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455022
-      },
-	  "model": "item/netherite_talons"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455023
-      },
-	  "model": "item/netherite_knuckles"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455024
-      },
-	  "model": "item/netherite_spear"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455025
-      },
-	  "model": "item/netherite_glaive"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455026
-      },
-	  "model": "item/netherite_guandao"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455027
-      },
-	  "model": "item/netherite_partisan"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455028
-      },
-	  "model": "item/netherite_poleaxe"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455029
-      },
-	  "model": "item/netherite_warfork"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455030
-      },
-	  "model": "item/netherite_warscythe"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455031
-      },
-	  "model": "item/netherite_quarterstaff"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455033
-      },
-	  "model": "item/netherite_battleaxe"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455034
-      },
-	  "model": "item/netherite_labrys"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455035
-      },
-	  "model": "item/netherite_waraxe"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455036
-      },
-	  "model": "item/netherite_greataxe"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455037
-      },
-	  "model": "item/netherite_mace"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455038
-      },
-	  "model": "item/netherite_morningstar"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455040
-      },
-	  "model": "item/netherite_warpick"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455042
-      },
-	  "model": "item/netherite_greatpick"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455044
-      },
-	  "model": "item/netherite_hammer"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455045
-      },
-	  "model": "item/netherite_maul"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455046
-      },
-	  "model": "item/netherite_greathammer"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455050
-      },
-	  "model": "item/netherite_pitchfork"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455051
-      },
-	  "model": "item/netherite_sickle"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455053
-      },
-	  "model": "item/netherite_scythe"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455054
-      },
-	  "model": "item/netherite_fork"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455056
-      },
-	  "model": "item/netherite_ladle"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455057
-      },
-	  "model": "item/netherite_knife"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455058
-      },
-	  "model": "item/lightsword_white"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455059
-      },
-	  "model": "item/lightsword_gray"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455060
-      },
-	  "model": "item/lightsword_light_gray"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455061
-      },
-	  "model": "item/lightsword_black"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455062
-      },
-	  "model": "item/lightsword_brown"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455063
-      },
-	  "model": "item/lightsword_red"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455064
-      },
-	  "model": "item/lightsword_orange"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455065
-      },
-	  "model": "item/lightsword_yellow"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455066
-      },
-	  "model": "item/lightsword_lime"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455067
-      },
-	  "model": "item/lightsword_green"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455068
-      },
-	  "model": "item/lightsword_cyan"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455069
-      },
-	  "model": "item/lightsword_light_blue"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455070
-      },
-	  "model": "item/lightsword_blue"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455071
-      },
-	  "model": "item/lightsword_purple"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455072
-      },
-	  "model": "item/lightsword_magenta"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455073
-      },
-	  "model": "item/lightsword_pink"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455074
-      },
-	  "model": "item/netherite_butterfly"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455075
-      },
-	  "model": "item/netherite_double"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455076
-      },
-	  "model": "item/netherite_crowbar"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455077
-      },
-	  "model": "item/netherite_dragonslayer"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455078
-      },
-	  "model": "item/netherite_caneaxe"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 455079
-      },
-	  "model": "item/netherite_tonfa"
-	}
+    {
+      "predicate": { "custom_model_data": 510001 },
+      "model": "artefacts:fourbi/khepesh_royal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455001
+      },
+      "model": "item/netherite_gladius"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455002
+      },
+      "model": "item/netherite_falchion"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455003
+      },
+      "model": "item/netherite_scimitar"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455004
+      },
+      "model": "item/netherite_cutlass"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455005
+      },
+      "model": "item/netherite_katana"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455006
+      },
+      "model": "item/netherite_rapier"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455007
+      },
+      "model": "item/netherite_saber"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455008
+      },
+      "model": "item/netherite_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455009
+      },
+      "model": "item/netherite_shortsword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455010
+      },
+      "model": "item/netherite_dagger"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455011
+      },
+      "model": "item/netherite_cinquedea"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455012
+      },
+      "model": "item/netherite_sai"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455013
+      },
+      "model": "item/netherite_longsword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455014
+      },
+      "model": "item/netherite_greatsword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455015
+      },
+      "model": "item/netherite_odachi"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455016
+      },
+      "model": "item/netherite_claymore"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455017
+      },
+      "model": "item/netherite_konda"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455018
+      },
+      "model": "item/netherite_executioner"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455019
+      },
+      "model": "item/netherite_fist"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455020
+      },
+      "model": "item/netherite_gauntlet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455021
+      },
+      "model": "item/netherite_claws"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455022
+      },
+      "model": "item/netherite_talons"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455023
+      },
+      "model": "item/netherite_knuckles"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455024
+      },
+      "model": "item/netherite_spear"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455025
+      },
+      "model": "item/netherite_glaive"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455026
+      },
+      "model": "item/netherite_guandao"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455027
+      },
+      "model": "item/netherite_partisan"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455028
+      },
+      "model": "item/netherite_poleaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455029
+      },
+      "model": "item/netherite_warfork"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455030
+      },
+      "model": "item/netherite_warscythe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455031
+      },
+      "model": "item/netherite_quarterstaff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455033
+      },
+      "model": "item/netherite_battleaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455034
+      },
+      "model": "item/netherite_labrys"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455035
+      },
+      "model": "item/netherite_waraxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455036
+      },
+      "model": "item/netherite_greataxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455037
+      },
+      "model": "item/netherite_mace"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455038
+      },
+      "model": "item/netherite_morningstar"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455040
+      },
+      "model": "item/netherite_warpick"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455042
+      },
+      "model": "item/netherite_greatpick"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455044
+      },
+      "model": "item/netherite_hammer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455045
+      },
+      "model": "item/netherite_maul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455046
+      },
+      "model": "item/netherite_greathammer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455050
+      },
+      "model": "item/netherite_pitchfork"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455051
+      },
+      "model": "item/netherite_sickle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455053
+      },
+      "model": "item/netherite_scythe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455054
+      },
+      "model": "item/netherite_fork"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455056
+      },
+      "model": "item/netherite_ladle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455057
+      },
+      "model": "item/netherite_knife"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455058
+      },
+      "model": "item/lightsword_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455059
+      },
+      "model": "item/lightsword_gray"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455060
+      },
+      "model": "item/lightsword_light_gray"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455061
+      },
+      "model": "item/lightsword_black"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455062
+      },
+      "model": "item/lightsword_brown"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455063
+      },
+      "model": "item/lightsword_red"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455064
+      },
+      "model": "item/lightsword_orange"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455065
+      },
+      "model": "item/lightsword_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455066
+      },
+      "model": "item/lightsword_lime"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455067
+      },
+      "model": "item/lightsword_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455068
+      },
+      "model": "item/lightsword_cyan"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455069
+      },
+      "model": "item/lightsword_light_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455070
+      },
+      "model": "item/lightsword_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455071
+      },
+      "model": "item/lightsword_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455072
+      },
+      "model": "item/lightsword_magenta"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455073
+      },
+      "model": "item/lightsword_pink"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455074
+      },
+      "model": "item/netherite_butterfly"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455075
+      },
+      "model": "item/netherite_double"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455076
+      },
+      "model": "item/netherite_crowbar"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455077
+      },
+      "model": "item/netherite_dragonslayer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455078
+      },
+      "model": "item/netherite_caneaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 455079
+      },
+      "model": "item/netherite_tonfa"
+    }
   ]
 }

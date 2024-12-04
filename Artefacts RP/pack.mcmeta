@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 42,
+    "supported_formats": {
+      "min_inclusive": 42,
+      "max_inclusive": 42
+    },
+    "description": "Artefacts RP 5.0 - MC 1.21.3"
+  }
+}
