@@ -1,6 +1,0 @@
-{
-	"parent": "./stone_path_2",
-	"textures": {
-		"0": "block/cobblestone"
-	}
-}

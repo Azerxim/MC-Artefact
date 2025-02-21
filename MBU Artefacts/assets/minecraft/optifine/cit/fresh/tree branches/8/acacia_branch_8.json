@@ -1,7 +1,0 @@
-{
-	"parent": "./branch_8",
-	"textures": {
-		"0": "block/acacia_log",
-		"1": "block/acacia_log_top"
-	}
-}

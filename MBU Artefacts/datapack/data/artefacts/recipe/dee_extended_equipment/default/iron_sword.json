@@ -1,0 +1,9 @@
+
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": ["minecraft:iron_sword"],
+  "result": {
+    "count": 1,
+    "id": "minecraft:iron_sword"
+  }
+}

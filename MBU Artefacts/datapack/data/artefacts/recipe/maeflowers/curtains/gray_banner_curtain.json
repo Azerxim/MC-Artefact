@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": ["minecraft:gray_banner"],
+  "result": {
+    "count": 1,
+    "id": "minecraft:gray_banner",
+    "components": {
+      "minecraft:custom_name": "[\"\",{\"text\":\"gray banner curtain\",\"italic\":false}]",
+      "minecraft:custom_model_data": {
+        "floats": [610001]
+      }
+    }
+  }
+}

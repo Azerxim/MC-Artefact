@@ -1,9 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "./tripod_1",
-	"ambientocclusion": false,
-	"texture_size": [32, 32],
-	"textures": {
-		"0": "./tripod_1a"
-	}
-}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": ["minecraft:spruce_fence"],
+  "result": {
+    "count": 1,
+    "id": "minecraft:spruce_fence",
+    "components": {
+      "minecraft:custom_name": "[\"\",{\"text\":\"spruce mushroom chair\",\"italic\":false}]",
+      "minecraft:custom_model_data": {
+        "floats": [610002]
+      }
+    }
+  }
+}

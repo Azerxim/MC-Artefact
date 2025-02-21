@@ -1,0 +1,474 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "minecraft:item/wooden_sword"
+    },
+    "entries": [
+      {
+        "threshold": 455001,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_gladius"
+        }
+      },
+      {
+        "threshold": 455002,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_falchion"
+        }
+      },
+      {
+        "threshold": 455003,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_scimitar"
+        }
+      },
+      {
+        "threshold": 455004,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_cutlass"
+        }
+      },
+      {
+        "threshold": 455005,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_katana"
+        }
+      },
+      {
+        "threshold": 455006,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_rapier"
+        }
+      },
+      {
+        "threshold": 455007,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_saber"
+        }
+      },
+      {
+        "threshold": 455008,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_star"
+        }
+      },
+      {
+        "threshold": 455009,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_shortsword"
+        }
+      },
+      {
+        "threshold": 455010,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_dagger"
+        }
+      },
+      {
+        "threshold": 455011,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_cinquedea"
+        }
+      },
+      {
+        "threshold": 455012,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_sai"
+        }
+      },
+      {
+        "threshold": 455013,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_longsword"
+        }
+      },
+      {
+        "threshold": 455014,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_greatsword"
+        }
+      },
+      {
+        "threshold": 455015,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_odachi"
+        }
+      },
+      {
+        "threshold": 455016,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_claymore"
+        }
+      },
+      {
+        "threshold": 455017,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_konda"
+        }
+      },
+      {
+        "threshold": 455018,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_executioner"
+        }
+      },
+      {
+        "threshold": 455023,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_knuckles"
+        }
+      },
+      {
+        "threshold": 455024,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_spear"
+        }
+      },
+      {
+        "threshold": 455025,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_glaive"
+        }
+      },
+      {
+        "threshold": 455026,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_guandao"
+        }
+      },
+      {
+        "threshold": 455027,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_partisan"
+        }
+      },
+      {
+        "threshold": 455028,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_poleaxe"
+        }
+      },
+      {
+        "threshold": 455029,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_warfork"
+        }
+      },
+      {
+        "threshold": 455030,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_warscythe"
+        }
+      },
+      {
+        "threshold": 455031,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_quarterstaff"
+        }
+      },
+      {
+        "threshold": 455033,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_battleaxe"
+        }
+      },
+      {
+        "threshold": 455034,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_labrys"
+        }
+      },
+      {
+        "threshold": 455035,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_waraxe"
+        }
+      },
+      {
+        "threshold": 455036,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_greataxe"
+        }
+      },
+      {
+        "threshold": 455037,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_mace"
+        }
+      },
+      {
+        "threshold": 455038,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_morningstar"
+        }
+      },
+      {
+        "threshold": 455040,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_warpick"
+        }
+      },
+      {
+        "threshold": 455042,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_greatpick"
+        }
+      },
+      {
+        "threshold": 455044,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_hammer"
+        }
+      },
+      {
+        "threshold": 455045,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_maul"
+        }
+      },
+      {
+        "threshold": 455046,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_greathammer"
+        }
+      },
+      {
+        "threshold": 455050,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_pitchfork"
+        }
+      },
+      {
+        "threshold": 455051,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_sickle"
+        }
+      },
+      {
+        "threshold": 455053,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_scythe"
+        }
+      },
+      {
+        "threshold": 455054,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_fork"
+        }
+      },
+      {
+        "threshold": 455056,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_ladle"
+        }
+      },
+      {
+        "threshold": 455057,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_knife"
+        }
+      },
+      {
+        "threshold": 455058,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:lightsword_white"
+        }
+      },
+      {
+        "threshold": 455059,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:lightsword_gray"
+        }
+      },
+      {
+        "threshold": 455060,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:lightsword_light_gray"
+        }
+      },
+      {
+        "threshold": 455061,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:lightsword_black"
+        }
+      },
+      {
+        "threshold": 455062,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:lightsword_brown"
+        }
+      },
+      {
+        "threshold": 455063,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:lightsword_red"
+        }
+      },
+      {
+        "threshold": 455064,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:lightsword_orange"
+        }
+      },
+      {
+        "threshold": 455065,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:lightsword_yellow"
+        }
+      },
+      {
+        "threshold": 455066,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:lightsword_lime"
+        }
+      },
+      {
+        "threshold": 455067,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:lightsword_green"
+        }
+      },
+      {
+        "threshold": 455068,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:lightsword_cyan"
+        }
+      },
+      {
+        "threshold": 455069,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:lightsword_light_blue"
+        }
+      },
+      {
+        "threshold": 455070,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:lightsword_blue"
+        }
+      },
+      {
+        "threshold": 455071,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:lightsword_purple"
+        }
+      },
+      {
+        "threshold": 455072,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:lightsword_magenta"
+        }
+      },
+      {
+        "threshold": 455073,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:lightsword_pink"
+        }
+      },
+      {
+        "threshold": 455074,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_butterfly"
+        }
+      },
+      {
+        "threshold": 455075,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_double"
+        }
+      },
+      {
+        "threshold": 455076,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_double"
+        }
+      },
+      {
+        "threshold": 455077,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_dragonslayer"
+        }
+      },
+      {
+        "threshold": 455078,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_caneaxe"
+        }
+      },
+      {
+        "threshold": 455079,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_tonfa"
+        }
+      }
+    ]
+  }
+}

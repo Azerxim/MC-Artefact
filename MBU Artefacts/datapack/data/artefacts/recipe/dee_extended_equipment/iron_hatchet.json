@@ -1,0 +1,15 @@
+
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": ["minecraft:iron_axe"],
+  "result": {
+    "count": 1,
+    "id": "minecraft:iron_axe",
+    "components": {
+      "minecraft:custom_name": "[\"\",{\"text\":\"iron hatchet\",\"italic\":false}]",
+      "minecraft:custom_model_data": {
+        "floats": [455032]
+      }
+    }
+  }
+}

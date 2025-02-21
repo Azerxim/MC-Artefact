@@ -1,6 +1,0 @@
-{
-    "parent": "./template_tool_1",
-    "textures": {
-        "tool": "item/netherite_pickaxe"
-    }
-}

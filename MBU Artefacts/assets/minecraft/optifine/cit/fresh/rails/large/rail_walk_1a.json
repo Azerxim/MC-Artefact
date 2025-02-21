@@ -1,8 +1,0 @@
-{
-	"parent": "./rail_walk_1",
-	"texture_size": [64, 64],
-	"textures": {
-		"0": "./rail_large_1",
-		"1": "block/stone"
-	}
-}

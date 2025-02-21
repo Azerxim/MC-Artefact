@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": ["minecraft:gray_carpet"],
+  "result": {
+    "count": 1,
+    "id": "minecraft:gray_carpet",
+    "components": {
+      "minecraft:custom_name": "[\"\",{\"text\":\"gray carpet towel plain\",\"italic\":false}]",
+      "minecraft:custom_model_data": {
+        "floats": [610004]
+      }
+    }
+  }
+}

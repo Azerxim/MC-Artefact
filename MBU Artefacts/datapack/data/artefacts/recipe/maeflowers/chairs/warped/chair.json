@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": ["minecraft:warped_fence"],
+  "result": {
+    "count": 1,
+    "id": "minecraft:warped_fence",
+    "components": {
+      "minecraft:custom_name": "[\"\",{\"text\":\"warped chair\",\"italic\":false}]",
+      "minecraft:custom_model_data": {
+        "floats": [610001]
+      }
+    }
+  }
+}

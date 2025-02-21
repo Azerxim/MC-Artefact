@@ -1,6 +1,0 @@
-{
-    "parent": "item/bow",
-    "textures": {
-        "layer0": "extended_equipment/bow/shortbow/shortbow_pulling_0"
-    }
-}

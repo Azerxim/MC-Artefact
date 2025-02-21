@@ -1,0 +1,9 @@
+
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": ["minecraft:diamond_shovel"],
+  "result": {
+    "count": 1,
+    "id": "minecraft:diamond_shovel"
+  }
+}

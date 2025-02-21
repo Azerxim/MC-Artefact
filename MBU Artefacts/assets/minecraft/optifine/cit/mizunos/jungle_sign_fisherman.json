@@ -1,7 +1,0 @@
-{
-	"parent": "./template_sign_normal",
-	"textures": {
-		"sign": "./jungle_sign_base",
-		"text": "./jungle_sign_text_fisherman"
-	}
-}

@@ -1,0 +1,61 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/wooden_shovel"
+    },
+    "entries": [
+      {
+        "threshold": 610001,
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:objects/wooden_shovel_potholders"
+        }
+      },
+      {
+        "threshold": 455041,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_paxel"
+        }
+      },
+      {
+        "threshold": 455047,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_trowel"
+        }
+      },
+      {
+        "threshold": 455048,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_spade"
+        }
+      },
+      {
+        "threshold": 455050,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_pitchfork"
+        }
+      },
+      {
+        "threshold": 455055,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_spoon"
+        }
+      },
+      {
+        "threshold": 455056,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:wooden_ladle"
+        }
+      }
+    ]
+  }
+}

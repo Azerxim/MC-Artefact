@@ -1,0 +1,14 @@
+{
+  "sources": [
+    {
+      "type": "directory",
+      "source": "extended_equipment",
+      "prefix": "extended_equipment/"
+    },
+    {
+      "type": "directory",
+      "source": "artefact",
+      "prefix": "artefact/"
+    }
+  ]
+}

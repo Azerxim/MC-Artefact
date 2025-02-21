@@ -1,7 +1,0 @@
-{
-	"parent": "./ceiling_fan_2",
-	"textures": {
-		"0": "./ceiling_fan_1a",
-		"1": "./ceiling_fan_2a"
-	}
-}

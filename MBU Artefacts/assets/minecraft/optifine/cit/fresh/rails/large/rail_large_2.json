@@ -1,7 +1,0 @@
-{
-	"parent": "./rail_large_1",
-	"textures": {
-		"0": "./rail_large_2",
-		"particle": "./rail_large_2"
-	}
-}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": ["minecraft:cyan_carpet"],
+  "result": {
+    "count": 1,
+    "id": "minecraft:cyan_carpet",
+    "components": {
+      "minecraft:custom_name": "[\"\",{\"text\":\"cyan carpet large rug\",\"italic\":false}]",
+      "minecraft:custom_model_data": {
+        "floats": [610002]
+      }
+    }
+  }
+}

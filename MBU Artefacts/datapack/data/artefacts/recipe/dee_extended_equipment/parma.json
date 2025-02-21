@@ -1,0 +1,15 @@
+
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": ["minecraft:shield"],
+  "result": {
+    "count": 1,
+    "id": "minecraft:shield",
+    "components": {
+      "minecraft:custom_name": "[\"\",{\"text\":\"parma\",\"italic\":false}]",
+      "minecraft:custom_model_data": {
+        "floats": [455002]
+      }
+    }
+  }
+}

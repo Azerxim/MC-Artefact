@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": ["minecraft:red_carpet"],
+  "result": {
+    "count": 1,
+    "id": "minecraft:red_carpet",
+    "components": {
+      "minecraft:custom_name": "[\"\",{\"text\":\"red carpet towel plain\",\"italic\":false}]",
+      "minecraft:custom_model_data": {
+        "floats": [610004]
+      }
+    }
+  }
+}

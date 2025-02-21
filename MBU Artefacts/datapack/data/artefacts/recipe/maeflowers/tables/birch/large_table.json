@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": ["minecraft:birch_trapdoor"],
+  "result": {
+    "count": 1,
+    "id": "minecraft:birch_trapdoor",
+    "components": {
+      "minecraft:custom_name": "[\"\",{\"text\":\"birch large table\",\"italic\":false}]",
+      "minecraft:custom_model_data": {
+        "floats": [610002]
+      }
+    }
+  }
+}

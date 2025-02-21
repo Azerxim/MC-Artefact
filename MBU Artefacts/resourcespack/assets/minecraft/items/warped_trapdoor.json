@@ -1,0 +1,26 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:block/warped_trapdoor_bottom"
+    },
+    "entries": [
+      {
+        "threshold": 610001,
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:tables/warped_trapdoor_table"
+        }
+      },
+      {
+        "threshold": 610002,
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:tables/warped_trapdoor_large_table"
+        }
+      }
+    ]
+  }
+}

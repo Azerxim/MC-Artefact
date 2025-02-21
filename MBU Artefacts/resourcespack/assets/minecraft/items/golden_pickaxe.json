@@ -1,0 +1,75 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "minecraft:item/golden_pickaxe"
+    },
+    "entries": [
+      {
+        "threshold": 455039,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:golden_minipick"
+        }
+      },
+      {
+        "threshold": 455040,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:golden_warpick"
+        }
+      },
+      {
+        "threshold": 455041,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:golden_paxel"
+        }
+      },
+      {
+        "threshold": 455042,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:golden_greatpick"
+        }
+      },
+      {
+        "threshold": 455043,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:golden_mallet"
+        }
+      },
+      {
+        "threshold": 455044,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:golden_hammer"
+        }
+      },
+      {
+        "threshold": 455045,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:golden_maul"
+        }
+      },
+      {
+        "threshold": 455046,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:golden_greathammer"
+        }
+      },
+      {
+        "threshold": 455048,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:golden_mattock"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": ["minecraft:iron_hoe"],
+  "result": {
+    "count": 1,
+    "id": "minecraft:iron_hoe",
+    "components": {
+      "minecraft:custom_name": "[\"\",{\"text\":\"iron crook\",\"italic\":false}]",
+      "minecraft:custom_model_data": {
+        "floats": [455052]
+      }
+    }
+  }
+}

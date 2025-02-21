@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": ["minecraft:oak_trapdoor"],
+  "result": {
+    "count": 1,
+    "id": "minecraft:oak_trapdoor",
+    "components": {
+      "minecraft:custom_name": "[\"\",{\"text\":\"oak table\",\"italic\":false}]",
+      "minecraft:custom_model_data": {
+        "floats": [610001]
+      }
+    }
+  }
+}

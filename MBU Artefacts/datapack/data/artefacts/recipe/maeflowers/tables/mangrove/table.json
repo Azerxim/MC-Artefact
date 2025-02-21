@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": ["minecraft:mangrove_trapdoor"],
+  "result": {
+    "count": 1,
+    "id": "minecraft:mangrove_trapdoor",
+    "components": {
+      "minecraft:custom_name": "[\"\",{\"text\":\"mangrove table\",\"italic\":false}]",
+      "minecraft:custom_model_data": {
+        "floats": [610001]
+      }
+    }
+  }
+}

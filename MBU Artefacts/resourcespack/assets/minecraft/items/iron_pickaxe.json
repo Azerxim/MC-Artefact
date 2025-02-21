@@ -1,0 +1,75 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "minecraft:item/iron_pickaxe"
+    },
+    "entries": [
+      {
+        "threshold": 455039,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:iron_minipick"
+        }
+      },
+      {
+        "threshold": 455040,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:iron_warpick"
+        }
+      },
+      {
+        "threshold": 455041,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:iron_paxel"
+        }
+      },
+      {
+        "threshold": 455042,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:iron_greatpick"
+        }
+      },
+      {
+        "threshold": 455043,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:iron_mallet"
+        }
+      },
+      {
+        "threshold": 455044,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:iron_hammer"
+        }
+      },
+      {
+        "threshold": 455045,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:iron_maul"
+        }
+      },
+      {
+        "threshold": 455046,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:iron_greathammer"
+        }
+      },
+      {
+        "threshold": 455048,
+        "model": {
+          "type": "model",
+          "model": "dee_extended_equipment:iron_mattock"
+        }
+      }
+    ]
+  }
+}

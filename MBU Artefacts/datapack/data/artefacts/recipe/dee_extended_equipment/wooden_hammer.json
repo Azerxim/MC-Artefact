@@ -1,0 +1,15 @@
+
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": ["minecraft:wooden_sword"],
+  "result": {
+    "count": 1,
+    "id": "minecraft:wooden_sword",
+    "components": {
+      "minecraft:custom_name": "[\"\",{\"text\":\"wooden hammer\",\"italic\":false}]",
+      "minecraft:custom_model_data": {
+        "floats": [455044]
+      }
+    }
+  }
+}

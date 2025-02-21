@@ -1,0 +1,6 @@
+{
+  "parent": "dee_extended_equipment:slingshot",
+  "textures": {
+    "layer0": "minecraft:extended_equipment/bow/slingshot/slingshot_pulling_1"
+  }
+}

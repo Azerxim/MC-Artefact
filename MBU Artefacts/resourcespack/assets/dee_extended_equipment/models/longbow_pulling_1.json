@@ -1,0 +1,6 @@
+{
+  "parent": "dee_extended_equipment:longbow",
+  "textures": {
+    "layer0": "minecraft:extended_equipment/bow/longbow/longbow_pulling_1"
+  }
+}

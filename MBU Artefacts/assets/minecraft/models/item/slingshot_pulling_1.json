@@ -1,6 +1,0 @@
-{
-    "parent": "item/slingshot",
-    "textures": {
-        "layer0": "extended_equipment/bow/slingshot/slingshot_pulling_1"
-    }
-}

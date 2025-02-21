@@ -1,0 +1,15 @@
+
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": ["minecraft:stone_sword"],
+  "result": {
+    "count": 1,
+    "id": "minecraft:stone_sword",
+    "components": {
+      "minecraft:custom_name": "[\"\",{\"text\":\"stone partisan\",\"italic\":false}]",
+      "minecraft:custom_model_data": {
+        "floats": [455027]
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": ["minecraft:wooden_shovel"],
+  "result": {
+    "count": 1,
+    "id": "minecraft:wooden_shovel",
+    "components": {
+      "minecraft:custom_name": "[\"\",{\"text\":\"wooden paxel\",\"italic\":false}]",
+      "minecraft:custom_model_data": {
+        "floats": [455041]
+      }
+    }
+  }
+}
