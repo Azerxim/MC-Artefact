@@ -1,16 +1,17 @@
 {
   "model": {
-    "type": "range_dispatch",
-    "property": "custom_model_data",
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
     "fallback": {
-      "type": "model",
+      "type": "minecraft:model",
       "model": "minecraft:item/netherite_sword"
     },
-    "entries": [
+    "cases": [
       {
-        "threshold": 510001,
+        "when": "Khepesh Royal",
         "model": {
-          "type": "model",
+          "type": "minecraft:model",
           "model": "artefacts:fourbi/khepesh_royal"
         }
       }

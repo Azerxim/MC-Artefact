@@ -5,28 +5,28 @@
     "component": "minecraft:custom_name",
     "fallback": {
       "type": "minecraft:model",
-      "model": "minecraft:block/carved_pumpkin"
+      "model": "minecraft:item/gold_nugget"
     },
     "cases": [
       {
-        "when": "Couronne du Prince Clerc",
+        "when": "PlayStation",
         "model": {
           "type": "minecraft:model",
-          "model": "artefacts:arpegene/couronne"
+          "model": "artefacts:console/playstation"
         }
       },
       {
-        "when": "Sainte Mitre",
+        "when": "PlayStation Controller",
         "model": {
           "type": "minecraft:model",
-          "model": "artefacts:arpegene/mitre_papale"
+          "model": "artefacts:console/ps_controller"
         }
       },
       {
-        "when": "PlayStation Headphones",
+        "when": "PlayStation TV",
         "model": {
           "type": "minecraft:model",
-          "model": "artefacts:playstation/headphones"
+          "model": "artefacts:console/ps_tv"
         }
       }
     ]
