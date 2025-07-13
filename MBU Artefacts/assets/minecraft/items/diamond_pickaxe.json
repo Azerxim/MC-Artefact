@@ -1,0 +1,76 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/diamond_pickaxe"
+    },
+    "cases": [
+      {
+        "when": "minipick",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_minipick"
+        }
+      },
+      {
+        "when": "warpick",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_warpick"
+        }
+      },
+      {
+        "when": "paxel",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_paxel"
+        }
+      },
+      {
+        "when": "greatpick",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_greatpick"
+        }
+      },
+      {
+        "when": "mallet",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_mallet"
+        }
+      },
+      {
+        "when": "hammer",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_hammer"
+        }
+      },
+      {
+        "when": "maul",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_maul"
+        }
+      },
+      {
+        "when": "greathammer",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_greathammer"
+        }
+      },
+      {
+        "when": "mattock",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_mattock"
+        }
+      }
+    ]
+  }
+}

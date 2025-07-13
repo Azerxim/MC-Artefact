@@ -1,0 +1,27 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/cauldron"
+    },
+    "cases": [
+      {
+        "when": "Cauldron_bath_w/faucet",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:bathroom/cauldron_bath_faucet"
+        }
+      },
+      {
+        "when": "Cauldron_bathtub",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:bathroom/cauldron_bathtub"
+        }
+      }
+    ]
+  }
+}

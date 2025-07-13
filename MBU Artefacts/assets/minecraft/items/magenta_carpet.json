@@ -1,0 +1,41 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:block/magenta_carpet"
+    },
+    "cases": [
+      {
+        "when": "Magenta Carpet_rug",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:rugs/magenta_carpet_rug"
+        }
+      },
+      {
+        "when": "Magenta Carpet_large_rug",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:rugs/magenta_carpet_rug_large"
+        }
+      },
+      {
+        "when": "Magenta Carpet_towel_plaid",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:towels/plaid/magenta_carpet_towel_plaid"
+        }
+      },
+      {
+        "when": "Magenta Carpet_towel",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:towels/plain/magenta_carpet_towel"
+        }
+      }
+    ]
+  }
+}

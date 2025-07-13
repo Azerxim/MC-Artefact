@@ -1,0 +1,188 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/diamond_axe"
+    },
+    "cases": [
+      {
+        "when": "star",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_star"
+        }
+      },
+      {
+        "when": "greatsword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_greatsword"
+        }
+      },
+      {
+        "when": "claymore",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_claymore"
+        }
+      },
+      {
+        "when": "konda",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_konda"
+        }
+      },
+      {
+        "when": "executioner",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_executioner"
+        }
+      },
+      {
+        "when": "fist",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_fist"
+        }
+      },
+      {
+        "when": "gauntlet",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_gauntlet"
+        }
+      },
+      {
+        "when": "claws",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_claws"
+        }
+      },
+      {
+        "when": "talons",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_talons"
+        }
+      },
+      {
+        "when": "knuckles",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_knuckles"
+        }
+      },
+      {
+        "when": "hatchet",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_hatchet"
+        }
+      },
+      {
+        "when": "battleaxe",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_battleaxe"
+        }
+      },
+      {
+        "when": "labrys",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_labrys"
+        }
+      },
+      {
+        "when": "waraxe",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_waraxe"
+        }
+      },
+      {
+        "when": "greataxe",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_greataxe"
+        }
+      },
+      {
+        "when": "mace",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_mace"
+        }
+      },
+      {
+        "when": "morningstar",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_morningstar"
+        }
+      },
+      {
+        "when": "paxel",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_paxel"
+        }
+      },
+      {
+        "when": "greatpick",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_greatpick"
+        }
+      },
+      {
+        "when": "hammer",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_hammer"
+        }
+      },
+      {
+        "when": "maul",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_maul"
+        }
+      },
+      {
+        "when": "greathammer",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_greathammer"
+        }
+      },
+      {
+        "when": "crowbar",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_crowbar"
+        }
+      },
+      {
+        "when": "dragonslayer",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_dragonslayer"
+        }
+      },
+      {
+        "when": "cane",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_caneaxe"
+        }
+      }
+    ]
+  }
+}

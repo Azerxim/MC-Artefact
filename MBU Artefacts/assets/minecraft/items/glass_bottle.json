@@ -1,0 +1,342 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/glass_bottle"
+    },
+    "cases": [
+      {
+        "when": "Glass Bottle_toilet",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:bathroom/glass_bottle_toilet"
+        }
+      },
+      {
+        "when": "Glass Bottle_soap",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:objects/glass_bottle_soap"
+        }
+      },
+      {
+        "when": "Glass Bottle_closed_cabinet_acacia",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:cabinets/closed_cabinets/glass_bottle_closed_cabinet_acacia"
+        }
+      },
+      {
+        "when": "Glass Bottle_closed_cabinet_birch",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:cabinets/closed_cabinets/glass_bottle_closed_cabinet_birch"
+        }
+      },
+      {
+        "when": "Glass Bottle_closed_cabinet_crimson",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:cabinets/closed_cabinets/glass_bottle_closed_cabinet_crimson"
+        }
+      },
+      {
+        "when": "Glass Bottle_closed_cabinet_dark_oak",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:cabinets/closed_cabinets/glass_bottle_closed_cabinet_dark_oak"
+        }
+      },
+      {
+        "when": "Glass Bottle_closed_cabinet_jungle",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:cabinets/closed_cabinets/glass_bottle_closed_cabinet_jungle"
+        }
+      },
+      {
+        "when": "Glass Bottle_closed_cabinet_mangrove",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:cabinets/closed_cabinets/glass_bottle_closed_cabinet_mangrove"
+        }
+      },
+      {
+        "when": "Glass Bottle_closed_cabinet_oak",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:cabinets/closed_cabinets/glass_bottle_closed_cabinet_oak"
+        }
+      },
+      {
+        "when": "Glass Bottle_closed_cabinet_spruce",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:cabinets/closed_cabinets/glass_bottle_closed_cabinet_spruce"
+        }
+      },
+      {
+        "when": "Glass Bottle_closed_cabinet_warped",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:cabinets/closed_cabinets/glass_bottle_closed_cabinet_warped"
+        }
+      },
+      {
+        "when": "Glass Bottle_dish_cabinet_acacia",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:cabinets/dish_cabinets/glass_bottle_dish_cabinet_acacia"
+        }
+      },
+      {
+        "when": "Glass Bottle_dish_cabinet_birch",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:cabinets/dish_cabinets/glass_bottle_dish_cabinet_birch"
+        }
+      },
+      {
+        "when": "Glass Bottle_dish_cabinet_crimson",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:cabinets/dish_cabinets/glass_bottle_dish_cabinet_crimson"
+        }
+      },
+      {
+        "when": "Glass Bottle_dish_cabinet_dark_oak",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:cabinets/dish_cabinets/glass_bottle_dish_cabinet_dark_oak"
+        }
+      },
+      {
+        "when": "Glass Bottle_dish_cabinet_jungle",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:cabinets/dish_cabinets/glass_bottle_dish_cabinet_jungle"
+        }
+      },
+      {
+        "when": "Glass Bottle_dish_cabinet_mangrove",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:cabinets/dish_cabinets/glass_bottle_dish_cabinet_mangrove"
+        }
+      },
+      {
+        "when": "Glass Bottle_dish_cabinet_oak",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:cabinets/dish_cabinets/glass_bottle_dish_cabinet_oak"
+        }
+      },
+      {
+        "when": "Glass Bottle_dish_cabinet_spruce",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:cabinets/dish_cabinets/glass_bottle_dish_cabinet_spruce"
+        }
+      },
+      {
+        "when": "Glass Bottle_dish_cabinet_warped",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:cabinets/dish_cabinets/glass_bottle_dish_cabinet_warped"
+        }
+      },
+      {
+        "when": "Glass Bottle_empty_cabinet_acacia",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:cabinets/empty_cabinets/glass_bottle_empty_cabinet_acacia"
+        }
+      },
+      {
+        "when": "Glass Bottle_empty_cabinet_birch",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:cabinets/empty_cabinets/glass_bottle_empty_cabinet_birch"
+        }
+      },
+      {
+        "when": "Glass Bottle_empty_cabinet_crimson",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:cabinets/empty_cabinets/glass_bottle_empty_cabinet_crimson"
+        }
+      },
+      {
+        "when": "Glass Bottle_empty_cabinet_dark_oak",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:cabinets/empty_cabinets/glass_bottle_empty_cabinet_dark_oak"
+        }
+      },
+      {
+        "when": "Glass Bottle_empty_cabinet_jungle",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:cabinets/empty_cabinets/glass_bottle_empty_cabinet_jungle"
+        }
+      },
+      {
+        "when": "Glass Bottle_empty_cabinet_mangrove",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:cabinets/empty_cabinets/glass_bottle_empty_cabinet_mangrove"
+        }
+      },
+      {
+        "when": "Glass Bottle_empty_cabinet_oak",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:cabinets/empty_cabinets/glass_bottle_empty_cabinet_oak"
+        }
+      },
+      {
+        "when": "Glass Bottle_empty_cabinet_spruce",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:cabinets/empty_cabinets/glass_bottle_empty_cabinet_spruce"
+        }
+      },
+      {
+        "when": "Glass Bottle_empty_cabinet_warped",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:cabinets/empty_cabinets/glass_bottle_empty_cabinet_warped"
+        }
+      },
+      {
+        "when": "Glass Bottle_floor_cabinet_acacia",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:cabinets/floor_cabinets/glass_bottle_floor_cabinet_acacia"
+        }
+      },
+      {
+        "when": "Glass Bottle_floor_cabinet_birch",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:cabinets/floor_cabinets/glass_bottle_floor_cabinet_birch"
+        }
+      },
+      {
+        "when": "Glass Bottle_floor_cabinet_crimson",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:cabinets/floor_cabinets/glass_bottle_floor_cabinet_crimson"
+        }
+      },
+      {
+        "when": "Glass Bottle_floor_cabinet_dark_oak",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:cabinets/floor_cabinets/glass_bottle_floor_cabinet_dark_oak"
+        }
+      },
+      {
+        "when": "Glass Bottle_floor_cabinet_jungle",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:cabinets/floor_cabinets/glass_bottle_floor_cabinet_jungle"
+        }
+      },
+      {
+        "when": "Glass Bottle_floor_cabinet_mangrove",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:cabinets/floor_cabinets/glass_bottle_floor_cabinet_mangrove"
+        }
+      },
+      {
+        "when": "Glass Bottle_floor_cabinet_oak",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:cabinets/floor_cabinets/glass_bottle_floor_cabinet_oak"
+        }
+      },
+      {
+        "when": "Glass Bottle_floor_cabinet_spruce",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:cabinets/floor_cabinets/glass_bottle_floor_cabinet_spruce"
+        }
+      },
+      {
+        "when": "Glass Bottle_floor_cabinet_warped",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:cabinets/floor_cabinets/glass_bottle_floor_cabinet_warped"
+        }
+      },
+      {
+        "when": "Glass Bottle_full_cabinet_acacia",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:cabinets/full_cabinets/glass_bottle_full_cabinet_acacia"
+        }
+      },
+      {
+        "when": "Glass Bottle_full_cabinet_birch",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:cabinets/full_cabinets/glass_bottle_full_cabinet_birch"
+        }
+      },
+      {
+        "when": "Glass Bottle_full_cabinet_crimson",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:cabinets/full_cabinets/glass_bottle_full_cabinet_crimson"
+        }
+      },
+      {
+        "when": "Glass Bottle_full_cabinet_dark_oak",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:cabinets/full_cabinets/glass_bottle_full_cabinet_dark_oak"
+        }
+      },
+      {
+        "when": "Glass Bottle_full_cabinet_jungle",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:cabinets/full_cabinets/glass_bottle_full_cabinet_jungle"
+        }
+      },
+      {
+        "when": "Glass Bottle_full_cabinet_mangrove",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:cabinets/full_cabinets/glass_bottle_full_cabinet_mangrove"
+        }
+      },
+      {
+        "when": "Glass Bottle_full_cabinet_oak",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:cabinets/full_cabinets/glass_bottle_full_cabinet_oak"
+        }
+      },
+      {
+        "when": "Glass Bottle_full_cabinet_spruce",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:cabinets/full_cabinets/glass_bottle_full_cabinet_spruce"
+        }
+      },
+      {
+        "when": "Glass Bottle_full_cabinet_warped",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:cabinets/full_cabinets/glass_bottle_full_cabinet_warped"
+        }
+      }
+    ]
+  }
+}

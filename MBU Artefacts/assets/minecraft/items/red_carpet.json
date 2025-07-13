@@ -1,0 +1,41 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:block/red_carpet"
+    },
+    "cases": [
+      {
+        "when": "Red Carpet_rug",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:rugs/red_carpet_rug"
+        }
+      },
+      {
+        "when": "Red Carpet_large_rug",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:rugs/red_carpet_rug_large"
+        }
+      },
+      {
+        "when": "Red Carpet_towel_plaid",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:towels/plaid/red_carpet_towel_plaid"
+        }
+      },
+      {
+        "when": "Red Carpet_towel",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:towels/plain/red_carpet_towel"
+        }
+      }
+    ]
+  }
+}

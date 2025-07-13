@@ -1,0 +1,41 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:block/light_blue_carpet"
+    },
+    "cases": [
+      {
+        "when": "Light Blue Carpet_rug",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:rugs/light_blue_carpet_rug"
+        }
+      },
+      {
+        "when": "Light Blue Carpet_large_rug",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:rugs/light_blue_carpet_rug_large"
+        }
+      },
+      {
+        "when": "Light Blue Carpet_towel_plaid",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:towels/plaid/light_blue_carpet_towel_plaid"
+        }
+      },
+      {
+        "when": "Light Blue Carpet_towel",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:towels/plain/light_blue_carpet_towel"
+        }
+      }
+    ]
+  }
+}

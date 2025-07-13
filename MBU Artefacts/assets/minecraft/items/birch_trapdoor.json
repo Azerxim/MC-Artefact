@@ -1,0 +1,27 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:block/birch_trapdoor_bottom"
+    },
+    "cases": [
+      {
+        "when": "Birch Trapdoor_table",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:tables/birch_trapdoor_table"
+        }
+      },
+      {
+        "when": "Birch Trapdoor_large_table",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:tables/birch_trapdoor_large_table"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/iron_pickaxe"
+    },
+    "cases": [
+      {
+        "when": "minipick",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:iron_minipick"
+        }
+      },
+      {
+        "when": "warpick",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:iron_warpick"
+        }
+      },
+      {
+        "when": "paxel",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:iron_paxel"
+        }
+      },
+      {
+        "when": "greatpick",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:iron_greatpick"
+        }
+      },
+      {
+        "when": "mallet",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:iron_mallet"
+        }
+      },
+      {
+        "when": "hammer",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:iron_hammer"
+        }
+      },
+      {
+        "when": "maul",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:iron_maul"
+        }
+      },
+      {
+        "when": "greathammer",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:iron_greathammer"
+        }
+      },
+      {
+        "when": "mattock",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:iron_mattock"
+        }
+      }
+    ]
+  }
+}

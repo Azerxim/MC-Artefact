@@ -1,0 +1,237 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:block/furnace"
+    },
+    "cases": [
+      {
+        "when": "Furnace_oven_aubergine",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:ovens/furnace_oven_aubergine"
+        }
+      },
+      {
+        "when": "Furnace_oven_blush",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:ovens/furnace_oven_blush"
+        }
+      },
+      {
+        "when": "Furnace_oven_cyan",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:ovens/furnace_oven_cyan"
+        }
+      },
+      {
+        "when": "Furnace_oven_dark_blue",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:ovens/furnace_oven_darkblue"
+        }
+      },
+      {
+        "when": "Furnace_oven_dove",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:ovens/furnace_oven_dove"
+        }
+      },
+      {
+        "when": "Furnace_oven_gray",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:ovens/furnace_oven_gray"
+        }
+      },
+      {
+        "when": "Furnace_oven_green",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:ovens/furnace_oven_green"
+        }
+      },
+      {
+        "when": "Furnace_oven_lilac",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:ovens/furnace_oven_lilac"
+        }
+      },
+      {
+        "when": "Furnace_oven_olivine",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:ovens/furnace_oven_olivine"
+        }
+      },
+      {
+        "when": "Furnace_oven_orange",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:ovens/furnace_oven_orange"
+        }
+      },
+      {
+        "when": "Furnace_oven_raspberry",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:ovens/furnace_oven_raspberry"
+        }
+      },
+      {
+        "when": "Furnace_oven_red",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:ovens/furnace_oven_red"
+        }
+      },
+      {
+        "when": "Furnace_oven_skyblue",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:ovens/furnace_oven_skyblue"
+        }
+      },
+      {
+        "when": "Furnace_oven_tan",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:ovens/furnace_oven_tan"
+        }
+      },
+      {
+        "when": "Furnace_oven_white",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:ovens/furnace_oven_white"
+        }
+      },
+      {
+        "when": "Furnace_oven_yellow",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:ovens/furnace_oven_yellow"
+        }
+      },
+      {
+        "when": "Furnace_oven_large_aubergine",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:ovens/large_ovens/furnace_oven_large_aubergine"
+        }
+      },
+      {
+        "when": "Furnace_oven_large_blush",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:ovens/large_ovens/furnace_oven_large_blush"
+        }
+      },
+      {
+        "when": "Furnace_oven_large_cyan",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:ovens/large_ovens/furnace_oven_large_cyan"
+        }
+      },
+      {
+        "when": "Furnace_oven_large_darkblue",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:ovens/large_ovens/furnace_oven_large_darkblue"
+        }
+      },
+      {
+        "when": "Furnace_oven_large_dove",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:ovens/large_ovens/furnace_oven_large_dove"
+        }
+      },
+      {
+        "when": "Furnace_oven_large_gray",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:ovens/large_ovens/furnace_oven_large_gray"
+        }
+      },
+      {
+        "when": "Furnace_oven_large_green",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:ovens/large_ovens/furnace_oven_large_green"
+        }
+      },
+      {
+        "when": "Furnace_oven_large_lilac",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:ovens/large_ovens/furnace_oven_large_lilac"
+        }
+      },
+      {
+        "when": "Furnace_oven_large_olivine",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:ovens/large_ovens/furnace_oven_large_olivine"
+        }
+      },
+      {
+        "when": "Furnace_oven_large_orange",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:ovens/large_ovens/furnace_oven_large_orange"
+        }
+      },
+      {
+        "when": "Furnace_oven_large_raspberry",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:ovens/large_ovens/furnace_oven_large_raspberry"
+        }
+      },
+      {
+        "when": "Furnace_oven_large_red",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:ovens/large_ovens/furnace_oven_large_red"
+        }
+      },
+      {
+        "when": "Furnace_oven_large_skyblue",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:ovens/large_ovens/furnace_oven_large_skyblue"
+        }
+      },
+      {
+        "when": "Furnace_oven_large_tan",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:ovens/large_ovens/furnace_oven_large_tan"
+        }
+      },
+      {
+        "when": "Furnace_oven_large_white",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:ovens/large_ovens/furnace_oven_large_white"
+        }
+      },
+      {
+        "when": "Furnace_oven_large_yellow",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:ovens/large_ovens/furnace_oven_large_yellow"
+        }
+      }
+    ]
+  }
+}

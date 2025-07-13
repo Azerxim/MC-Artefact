@@ -1,0 +1,27 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:block/mangrove_fence_inventory"
+    },
+    "cases": [
+      {
+        "when": "Mangrove Fence_chair",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:chairs/mangrove_fence_chair"
+        }
+      },
+      {
+        "when": "Mangrove Fence_mushroom_chair",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:chairs/mangrove_fence_mushroom_chair"
+        }
+      }
+    ]
+  }
+}

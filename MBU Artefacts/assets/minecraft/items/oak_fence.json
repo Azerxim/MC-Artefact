@@ -1,0 +1,27 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:block/oak_fence_inventory"
+    },
+    "cases": [
+      {
+        "when": "Oak Fence_chair",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:chairs/oak_fence_chair"
+        }
+      },
+      {
+        "when": "Oak Fence_mushroom_chair",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:chairs/oak_fence_mushroom_chair"
+        }
+      }
+    ]
+  }
+}

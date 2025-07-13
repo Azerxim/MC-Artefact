@@ -1,0 +1,55 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/iron_bars"
+    },
+    "cases": [
+      {
+        "when": "iron bars_tp_roll_holder_1",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:bathroom/iron_bars_tp_roll_holder_1"
+        }
+      },
+      {
+        "when": "iron bars_tp_roll_holder_2",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:bathroom/iron_bars_tp_roll_holder_2"
+        }
+      },
+      {
+        "when": "iron bars_tp_roll_lholder_2",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:bathroom/iron_bars_tp_roll_lholder_2"
+        }
+      },
+      {
+        "when": "iron bars_tp_roll_rholder_2",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:bathroom/iron_bars_tp_roll_rholder_2"
+        }
+      },
+      {
+        "when": "iron bars_curtain_rod",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:curtains/iron_bars_curtain_rod"
+        }
+      },
+      {
+        "when": "iron bars_towel_rack",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:towels/iron_bars_towel_rack"
+        }
+      }
+    ]
+  }
+}

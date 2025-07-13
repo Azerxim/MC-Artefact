@@ -1,0 +1,188 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/golden_axe"
+    },
+    "cases": [
+      {
+        "when": "star",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:golden_star"
+        }
+      },
+      {
+        "when": "greatsword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:golden_greatsword"
+        }
+      },
+      {
+        "when": "claymore",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:golden_claymore"
+        }
+      },
+      {
+        "when": "konda",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:golden_konda"
+        }
+      },
+      {
+        "when": "executioner",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:golden_executioner"
+        }
+      },
+      {
+        "when": "fist",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:golden_fist"
+        }
+      },
+      {
+        "when": "gauntlet",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:golden_gauntlet"
+        }
+      },
+      {
+        "when": "claws",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:golden_claws"
+        }
+      },
+      {
+        "when": "talons",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:golden_talons"
+        }
+      },
+      {
+        "when": "knuckles",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:golden_knuckles"
+        }
+      },
+      {
+        "when": "hatchet",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:golden_hatchet"
+        }
+      },
+      {
+        "when": "battleaxe",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:golden_battleaxe"
+        }
+      },
+      {
+        "when": "labrys",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:golden_labrys"
+        }
+      },
+      {
+        "when": "waraxe",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:golden_waraxe"
+        }
+      },
+      {
+        "when": "greataxe",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:golden_greataxe"
+        }
+      },
+      {
+        "when": "mace",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:golden_mace"
+        }
+      },
+      {
+        "when": "morningstar",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:golden_morningstar"
+        }
+      },
+      {
+        "when": "paxel",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:golden_paxel"
+        }
+      },
+      {
+        "when": "greatpick",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:golden_greatpick"
+        }
+      },
+      {
+        "when": "hammer",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:golden_hammer"
+        }
+      },
+      {
+        "when": "maul",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:golden_maul"
+        }
+      },
+      {
+        "when": "greathammer",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:golden_greathammer"
+        }
+      },
+      {
+        "when": "crowbar",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:golden_crowbar"
+        }
+      },
+      {
+        "when": "dragonslayer",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:golden_dragonslayer"
+        }
+      },
+      {
+        "when": "cane",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:golden_caneaxe"
+        }
+      }
+    ]
+  }
+}

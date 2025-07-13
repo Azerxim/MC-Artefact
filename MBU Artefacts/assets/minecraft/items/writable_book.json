@@ -1,0 +1,27 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/writable_book"
+    },
+    "cases": [
+      {
+        "when": "Book and Quill_notebook",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:objects/writable_book_notebook"
+        }
+      },
+      {
+        "when": "Book and Quill_notebook_closed",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:objects/writable_book_notebook_closed"
+        }
+      }
+    ]
+  }
+}

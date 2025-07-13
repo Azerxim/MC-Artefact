@@ -1,9 +1,0 @@
-
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": ["minecraft:stone_hoe"],
-  "result": {
-    "count": 1,
-    "id": "minecraft:stone_hoe"
-  }
-}

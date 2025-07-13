@@ -1,0 +1,55 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/iron_shovel"
+    },
+    "cases": [
+      {
+        "when": "paxel",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:iron_paxel"
+        }
+      },
+      {
+        "when": "trowel",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:iron_trowel"
+        }
+      },
+      {
+        "when": "spade",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:iron_spade"
+        }
+      },
+      {
+        "when": "pitchfork",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:iron_pitchfork"
+        }
+      },
+      {
+        "when": "spoon",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:iron_spoon"
+        }
+      },
+      {
+        "when": "ladle",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:iron_ladle"
+        }
+      }
+    ]
+  }
+}

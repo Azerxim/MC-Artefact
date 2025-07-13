@@ -1,9 +1,0 @@
-
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": ["minecraft:golden_axe"],
-  "result": {
-    "count": 1,
-    "id": "minecraft:golden_axe"
-  }
-}

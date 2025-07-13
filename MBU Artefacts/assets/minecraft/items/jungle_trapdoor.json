@@ -1,0 +1,27 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:block/jungle_trapdoor_bottom"
+    },
+    "cases": [
+      {
+        "when": "Jungle Trapdoor_table",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:tables/jungle_trapdoor_table"
+        }
+      },
+      {
+        "when": "Jungle Trapdoor_large_table",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:tables/jungle_trapdoor_large_table"
+        }
+      }
+    ]
+  }
+}

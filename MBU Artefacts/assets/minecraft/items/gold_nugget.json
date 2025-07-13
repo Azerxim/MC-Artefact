@@ -1,0 +1,34 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/gold_nugget"
+    },
+    "cases": [
+      {
+        "when": "PlayStation",
+        "model": {
+          "type": "minecraft:model",
+          "model": "artefacts:console/playstation"
+        }
+      },
+      {
+        "when": "PlayStation Controller",
+        "model": {
+          "type": "minecraft:model",
+          "model": "artefacts:console/ps_controller"
+        }
+      },
+      {
+        "when": "PlayStation TV",
+        "model": {
+          "type": "minecraft:model",
+          "model": "artefacts:console/ps_tv"
+        }
+      }
+    ]
+  }
+}

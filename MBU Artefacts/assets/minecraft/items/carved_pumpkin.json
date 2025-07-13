@@ -1,0 +1,34 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:block/carved_pumpkin"
+    },
+    "cases": [
+      {
+        "when": "Couronne du Prince Clerc",
+        "model": {
+          "type": "minecraft:model",
+          "model": "artefacts:arpegene/couronne"
+        }
+      },
+      {
+        "when": "Sainte Mitre",
+        "model": {
+          "type": "minecraft:model",
+          "model": "artefacts:arpegene/mitre_papale"
+        }
+      },
+      {
+        "when": "PlayStation Headphones",
+        "model": {
+          "type": "minecraft:model",
+          "model": "artefacts:playstation/headphones"
+        }
+      }
+    ]
+  }
+}

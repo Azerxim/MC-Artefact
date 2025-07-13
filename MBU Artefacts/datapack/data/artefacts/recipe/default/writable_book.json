@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": ["minecraft:writable_book"],
-  "result": {
-    "count": 1,
-    "id": "minecraft:writable_book"
-  }
-}

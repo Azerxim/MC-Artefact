@@ -1,0 +1,153 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/wooden_axe"
+    },
+    "cases": [
+      {
+        "when": "star",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:wooden_star"
+        }
+      },
+      {
+        "when": "greatsword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:wooden_greatsword"
+        }
+      },
+      {
+        "when": "claymore",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:wooden_claymore"
+        }
+      },
+      {
+        "when": "konda",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:wooden_konda"
+        }
+      },
+      {
+        "when": "executioner",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:wooden_executioner"
+        }
+      },
+      {
+        "when": "knuckles",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:wooden_knuckles"
+        }
+      },
+      {
+        "when": "hatchet",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:wooden_hatchet"
+        }
+      },
+      {
+        "when": "battleaxe",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:wooden_battleaxe"
+        }
+      },
+      {
+        "when": "labrys",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:wooden_labrys"
+        }
+      },
+      {
+        "when": "waraxe",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:wooden_waraxe"
+        }
+      },
+      {
+        "when": "greataxe",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:wooden_greataxe"
+        }
+      },
+      {
+        "when": "mace",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:wooden_mace"
+        }
+      },
+      {
+        "when": "morningstar",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:wooden_morningstar"
+        }
+      },
+      {
+        "when": "paxel",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:wooden_paxel"
+        }
+      },
+      {
+        "when": "greatpick",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:wooden_greatpick"
+        }
+      },
+      {
+        "when": "hammer",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:wooden_hammer"
+        }
+      },
+      {
+        "when": "maul",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:wooden_maul"
+        }
+      },
+      {
+        "when": "greathammer",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:wooden_greathammer"
+        }
+      },
+      {
+        "when": "dragonslayer",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:wooden_dragonslayer"
+        }
+      },
+      {
+        "when": "cane",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:wooden_caneaxe"
+        }
+      }
+    ]
+  }
+}

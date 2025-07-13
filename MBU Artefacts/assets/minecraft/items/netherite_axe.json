@@ -1,0 +1,188 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/netherite_axe"
+    },
+    "cases": [
+      {
+        "when": "star",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:netherite_star"
+        }
+      },
+      {
+        "when": "greatsword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:netherite_greatsword"
+        }
+      },
+      {
+        "when": "claymore",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:netherite_claymore"
+        }
+      },
+      {
+        "when": "konda",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:netherite_konda"
+        }
+      },
+      {
+        "when": "executioner",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:netherite_executioner"
+        }
+      },
+      {
+        "when": "fist",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:netherite_fist"
+        }
+      },
+      {
+        "when": "gauntlet",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:netherite_gauntlet"
+        }
+      },
+      {
+        "when": "claws",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:netherite_claws"
+        }
+      },
+      {
+        "when": "talons",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:netherite_talons"
+        }
+      },
+      {
+        "when": "knuckles",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:netherite_knuckles"
+        }
+      },
+      {
+        "when": "hatchet",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:netherite_hatchet"
+        }
+      },
+      {
+        "when": "battleaxe",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:netherite_battleaxe"
+        }
+      },
+      {
+        "when": "labrys",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:netherite_labrys"
+        }
+      },
+      {
+        "when": "waraxe",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:netherite_waraxe"
+        }
+      },
+      {
+        "when": "greataxe",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:netherite_greataxe"
+        }
+      },
+      {
+        "when": "mace",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:netherite_mace"
+        }
+      },
+      {
+        "when": "morningstar",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:netherite_morningstar"
+        }
+      },
+      {
+        "when": "paxel",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:netherite_paxel"
+        }
+      },
+      {
+        "when": "greatpick",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:netherite_greatpick"
+        }
+      },
+      {
+        "when": "hammer",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:netherite_hammer"
+        }
+      },
+      {
+        "when": "maul",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:netherite_maul"
+        }
+      },
+      {
+        "when": "greathammer",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:netherite_greathammer"
+        }
+      },
+      {
+        "when": "crowbar",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:netherite_crowbar"
+        }
+      },
+      {
+        "when": "dragonslayer",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:netherite_dragonslayer"
+        }
+      },
+      {
+        "when": "cane",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:netherite_caneaxe"
+        }
+      }
+    ]
+  }
+}

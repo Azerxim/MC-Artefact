@@ -1,0 +1,76 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/netherite_pickaxe"
+    },
+    "cases": [
+      {
+        "when": "minipick",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:netherite_minipick"
+        }
+      },
+      {
+        "when": "warpick",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:netherite_warpick"
+        }
+      },
+      {
+        "when": "paxel",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:netherite_paxel"
+        }
+      },
+      {
+        "when": "greatpick",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:netherite_greatpick"
+        }
+      },
+      {
+        "when": "mallet",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:netherite_mallet"
+        }
+      },
+      {
+        "when": "hammer",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:netherite_hammer"
+        }
+      },
+      {
+        "when": "maul",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:netherite_maul"
+        }
+      },
+      {
+        "when": "greathammer",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:netherite_greathammer"
+        }
+      },
+      {
+        "when": "mattock",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:netherite_mattock"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:block/lime_carpet"
+    },
+    "cases": [
+      {
+        "when": "Lime Carpet_rug",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:rugs/lime_carpet_rug"
+        }
+      },
+      {
+        "when": "Lime Carpet_large_rug",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:rugs/lime_carpet_rug_large"
+        }
+      },
+      {
+        "when": "Lime Carpet_towel_plaid",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:towels/plaid/lime_carpet_towel_plaid"
+        }
+      },
+      {
+        "when": "Lime Carpet_towel",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:towels/plain/lime_carpet_towel"
+        }
+      }
+    ]
+  }
+}

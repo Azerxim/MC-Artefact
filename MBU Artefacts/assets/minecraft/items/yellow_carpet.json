@@ -1,0 +1,41 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:block/yellow_carpet"
+    },
+    "cases": [
+      {
+        "when": "Yellow Carpet_rug",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:rugs/yellow_carpet_rug"
+        }
+      },
+      {
+        "when": "Yellow Carpet_large_rug",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:rugs/yellow_carpet_rug_large"
+        }
+      },
+      {
+        "when": "Yellow Carpet_towel_plaid",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:towels/plaid/yellow_carpet_towel_plaid"
+        }
+      },
+      {
+        "when": "Yellow Carpet_towel",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:towels/plain/yellow_carpet_towel"
+        }
+      }
+    ]
+  }
+}

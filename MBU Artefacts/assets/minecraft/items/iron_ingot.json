@@ -1,0 +1,27 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/iron_ingot"
+    },
+    "cases": [
+      {
+        "when": "Iron Ingot_showerhead",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:bathroom/iron_ingot_showerhead"
+        }
+      },
+      {
+        "when": "Iron Ingot_tv_remote",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:objects/iron_ingot_tv_remote"
+        }
+      }
+    ]
+  }
+}

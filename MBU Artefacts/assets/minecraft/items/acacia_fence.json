@@ -1,0 +1,27 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:block/acacia_fence_inventory"
+    },
+    "cases": [
+      {
+        "when": "Acacia Fence_chair",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:chairs/acacia_fence_chair"
+        }
+      },
+      {
+        "when": "Acacia Fence_mushroom_chair",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:chairs/acacia_fence_mushroom_chair"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:block/crimson_trapdoor_bottom"
+    },
+    "cases": [
+      {
+        "when": "Crimson Trapdoor_table",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:tables/crimson_trapdoor_table"
+        }
+      },
+      {
+        "when": "Crimson Trapdoor_large_table",
+        "model": {
+          "type": "minecraft:model",
+          "model": "maeflowers:tables/crimson_trapdoor_large_table"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,503 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/diamond_sword"
+    },
+    "cases": [
+      {
+        "when": "gladius",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_gladius"
+        }
+      },
+      {
+        "when": "falchion",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_falchion"
+        }
+      },
+      {
+        "when": "scimitar",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_scimitar"
+        }
+      },
+      {
+        "when": "cutlass",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_cutlass"
+        }
+      },
+      {
+        "when": "katana",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_katana"
+        }
+      },
+      {
+        "when": "rapier",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_rapier"
+        }
+      },
+      {
+        "when": "saber",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_saber"
+        }
+      },
+      {
+        "when": "star",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_star"
+        }
+      },
+      {
+        "when": "shortsword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_shortsword"
+        }
+      },
+      {
+        "when": "Dagger",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_dagger"
+        }
+      },
+      {
+        "when": "cinquedea",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_cinquedea"
+        }
+      },
+      {
+        "when": "sai",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_sai"
+        }
+      },
+      {
+        "when": "longsword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_longsword"
+        }
+      },
+      {
+        "when": "greatsword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_greatsword"
+        }
+      },
+      {
+        "when": "odachi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_odachi"
+        }
+      },
+      {
+        "when": "claymore",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_claymore"
+        }
+      },
+      {
+        "when": "konda",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_konda"
+        }
+      },
+      {
+        "when": "executioner",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_executioner"
+        }
+      },
+      {
+        "when": "fist",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_fist"
+        }
+      },
+      {
+        "when": "gauntlet",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_gauntlet"
+        }
+      },
+      {
+        "when": "claws",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_claws"
+        }
+      },
+      {
+        "when": "talons",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_talons"
+        }
+      },
+      {
+        "when": "knuckles",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_knuckles"
+        }
+      },
+      {
+        "when": "spear",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_spear"
+        }
+      },
+      {
+        "when": "glaive",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_glaive"
+        }
+      },
+      {
+        "when": "guandao",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_guandao"
+        }
+      },
+      {
+        "when": "partisan",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_partisan"
+        }
+      },
+      {
+        "when": "poleaxe",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_poleaxe"
+        }
+      },
+      {
+        "when": "warfork",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_warfork"
+        }
+      },
+      {
+        "when": "warscythe",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_warscythe"
+        }
+      },
+      {
+        "when": "quarterstaff",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_quarterstaff"
+        }
+      },
+      {
+        "when": "battleaxe",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_battleaxe"
+        }
+      },
+      {
+        "when": "labrys",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_labrys"
+        }
+      },
+      {
+        "when": "waraxe",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_waraxe"
+        }
+      },
+      {
+        "when": "greataxe",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_greataxe"
+        }
+      },
+      {
+        "when": "mace",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_mace"
+        }
+      },
+      {
+        "when": "morningstar",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_morningstar"
+        }
+      },
+      {
+        "when": "warpick",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_warpick"
+        }
+      },
+      {
+        "when": "greatpick",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_greatpick"
+        }
+      },
+      {
+        "when": "hammer",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_hammer"
+        }
+      },
+      {
+        "when": "maul",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_maul"
+        }
+      },
+      {
+        "when": "greathammer",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_greathammer"
+        }
+      },
+      {
+        "when": "pitchfork",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_pitchfork"
+        }
+      },
+      {
+        "when": "sickle",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_sickle"
+        }
+      },
+      {
+        "when": "scythe",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_scythe"
+        }
+      },
+      {
+        "when": "fork",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_fork"
+        }
+      },
+      {
+        "when": "ladle",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_ladle"
+        }
+      },
+      {
+        "when": "knife",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_knife"
+        }
+      },
+      {
+        "when": "whitelightsword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:lightsword_white"
+        }
+      },
+      {
+        "when": "graylightsword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:lightsword_gray"
+        }
+      },
+      {
+        "when": "light graylightsword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:lightsword_light_gray"
+        }
+      },
+      {
+        "when": "blacklightsword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:lightsword_black"
+        }
+      },
+      {
+        "when": "brownlightsword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:lightsword_brown"
+        }
+      },
+      {
+        "when": "redlightsword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:lightsword_red"
+        }
+      },
+      {
+        "when": "orangelightsword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:lightsword_orange"
+        }
+      },
+      {
+        "when": "yellowlightsword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:lightsword_yellow"
+        }
+      },
+      {
+        "when": "limelightsword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:lightsword_lime"
+        }
+      },
+      {
+        "when": "greenlightsword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:lightsword_green"
+        }
+      },
+      {
+        "when": "cyanlightsword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:lightsword_cyan"
+        }
+      },
+      {
+        "when": "light bluelightsword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:lightsword_light_blue"
+        }
+      },
+      {
+        "when": "bluelightsword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:lightsword_blue"
+        }
+      },
+      {
+        "when": "purplelightsword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:lightsword_purple"
+        }
+      },
+      {
+        "when": "magentalightsword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:lightsword_magenta"
+        }
+      },
+      {
+        "when": "pinklightsword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:lightsword_pink"
+        }
+      },
+      {
+        "when": "butterfly",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_butterfly"
+        }
+      },
+      {
+        "when": "double",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_double"
+        }
+      },
+      {
+        "when": "crowbar",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_crowbar"
+        }
+      },
+      {
+        "when": "dragonslayer",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_dragonslayer"
+        }
+      },
+      {
+        "when": "cane",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_caneaxe"
+        }
+      },
+      {
+        "when": "tonfa",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dee_extended_equipment:diamond_tonfa"
+        }
+      }
+    ]
+  }
+}
