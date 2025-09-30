@@ -1,8 +1,8 @@
 {
   "credit": "Made By Khaled_Shooter with Blockbench",
   "textures": {
-    "0": "minecraft:artefact/console/ps_controller",
-    "particle": "minecraft:artefact/console/ps_controller"
+    "0": "block/artefacts/console/ps_controller",
+    "particle": "block/artefacts/console/ps_controller"
   },
   "elements": [
     {

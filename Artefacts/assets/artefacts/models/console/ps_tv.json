@@ -1,9 +1,9 @@
 {
   "credit": "Made By Khaled_Shooter with Blockbench",
   "textures": {
-    "0": "minecraft:artefact/console/ps_loading_screen",
-    "1": "minecraft:artefact/console/ps_tv",
-    "particle": "minecraft:artefact/console/ps_loading_screen"
+    "0": "block/artefacts/console/ps_loading_screen",
+    "1": "block/artefacts/console/ps_tv",
+    "particle": "block/artefacts/console/ps_loading_screen"
   },
   "elements": [
     {

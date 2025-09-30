@@ -2,8 +2,8 @@
   "credit": "Made By Khaled_Shooter with Blockbench",
   "texture_size": [32, 32],
   "textures": {
-    "0": "minecraft:artefact/console/ps_headphones",
-    "particle": "minecraft:artefact/console/ps_headphones"
+    "0": "block/artefacts/console/ps_headphones",
+    "particle": "block/artefacts/console/ps_headphones"
   },
   "elements": [
     {

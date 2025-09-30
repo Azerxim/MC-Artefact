@@ -26,7 +26,7 @@
         "when": "PlayStation Headphones",
         "model": {
           "type": "minecraft:model",
-          "model": "artefacts:playstation/headphones"
+          "model": "artefacts:console/ps_headphones"
         }
       }
     ]
