@@ -1,28 +1,11 @@
 {
   "model": {
-    "type": "range_dispatch",
-    "property": "custom_model_data",
-    "fallback": {
-      "type": "minecraft:condition",
-      "property": "minecraft:using_item",
-      "on_false": {
-        "type": "minecraft:special",
-        "base": "minecraft:item/shield",
-        "model": {
-          "type": "minecraft:shield"
-        }
-      },
-      "on_true": {
-        "type": "minecraft:special",
-        "base": "minecraft:item/shield_blocking",
-        "model": {
-          "type": "minecraft:shield"
-        }
-      }
-    },
-    "entries": [
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "cases": [
       {
-        "threshold": 455001,
+        "when": "buckler",
         "model": {
           "type": "minecraft:condition",
           "property": "minecraft:using_item",
@@ -37,7 +20,7 @@
         }
       },
       {
-        "threshold": 455002,
+        "when": "parma",
         "model": {
           "type": "minecraft:condition",
           "property": "minecraft:using_item",
@@ -52,7 +35,7 @@
         }
       },
       {
-        "threshold": 455003,
+        "when": "arm_shield_iron",
         "model": {
           "type": "minecraft:condition",
           "property": "minecraft:using_item",
@@ -67,7 +50,7 @@
         }
       },
       {
-        "threshold": 455004,
+        "when": "arm_shield_golden",
         "model": {
           "type": "minecraft:condition",
           "property": "minecraft:using_item",
@@ -82,7 +65,7 @@
         }
       },
       {
-        "threshold": 455005,
+        "when": "arm_shield_diamond",
         "model": {
           "type": "minecraft:condition",
           "property": "minecraft:using_item",
@@ -97,7 +80,7 @@
         }
       },
       {
-        "threshold": 455006,
+        "when": "arm_shield_netherite",
         "model": {
           "type": "minecraft:condition",
           "property": "minecraft:using_item",
@@ -112,7 +95,7 @@
         }
       },
       {
-        "threshold": 455007,
+        "when": "tower",
         "model": {
           "type": "minecraft:condition",
           "property": "minecraft:using_item",
@@ -126,7 +109,25 @@
           }
         }
       }
-    ]
+    ],
+    "fallback": {
+      "type": "minecraft:condition",
+      "property": "minecraft:using_item",
+      "on_true": {
+        "type": "minecraft:special",
+        "model": {
+          "type": "minecraft:shield"
+        },
+        "base": "minecraft:item/shield_blocking"
+      },
+      "on_false": {
+        "type": "minecraft:special",
+        "model": {
+          "type": "minecraft:shield"
+        },
+        "base": "minecraft:item/shield"
+      }
+    }
   },
   "display": {
     "thirdperson_righthand": {

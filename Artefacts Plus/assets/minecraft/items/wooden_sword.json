@@ -72,7 +72,7 @@
         }
       },
       {
-        "when": "Dagger",
+        "when": "dagger",
         "model": {
           "type": "minecraft:model",
           "model": "dee_extended_equipment:wooden_dagger"
@@ -433,13 +433,6 @@
         "model": {
           "type": "minecraft:model",
           "model": "dee_extended_equipment:wooden_butterfly"
-        }
-      },
-      {
-        "when": "double",
-        "model": {
-          "type": "minecraft:model",
-          "model": "dee_extended_equipment:wooden_double"
         }
       },
       {

@@ -79,7 +79,7 @@
         }
       },
       {
-        "when": "Dagger",
+        "when": "dagger",
         "model": {
           "type": "minecraft:model",
           "model": "dee_extended_equipment:netherite_dagger"
