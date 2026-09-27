@@ -5,28 +5,28 @@
     "component": "minecraft:custom_name",
     "fallback": {
       "type": "minecraft:model",
-      "model": "minecraft:item/Bucket"
+      "model": "minecraft:item/bucket"
     },
     "cases": [
       {
         "when": "Bucket_sink_1",
         "model": {
           "type": "minecraft:model",
-          "model": "maeflowers:sinks/Bucket_sink"
+          "model": "maeflowers:sinks/bucket_sink"
         }
       },
       {
         "when": "Bucket_sink_2",
         "model": {
           "type": "minecraft:model",
-          "model": "maeflowers:sinks/Bucket_sink_2"
+          "model": "maeflowers:sinks/bucket_sink_2"
         }
       },
       {
         "when": "Bucket_sink_3",
         "model": {
           "type": "minecraft:model",
-          "model": "maeflowers:sinks/Bucket_sink_3"
+          "model": "maeflowers:sinks/bucket_sink_3"
         }
       }
     ]

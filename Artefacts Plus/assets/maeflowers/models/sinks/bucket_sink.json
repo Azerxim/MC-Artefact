@@ -3,7 +3,8 @@
   "textures": {
     "0": "maeflowers:block/sinks/sink",
     "1": "maeflowers:block/sinks/sink_bottom_1",
-    "2": "maeflowers:block/sinks/silver_faucet_2"
+    "2": "maeflowers:block/sinks/silver_faucet_2",
+    "particle": "#0"
   },
   "elements": [
     {
@@ -64,10 +65,6 @@
       "to": [14, 9, 14],
       "rotation": { "angle": 0, "axis": "y", "origin": [-8, 0, 0] },
       "faces": {
-        "north": { "uv": [0, 0, 16, 1], "texture": "#missing" },
-        "east": { "uv": [0, 0, 14, 1], "texture": "#missing" },
-        "south": { "uv": [0, 0, 16, 1], "texture": "#missing" },
-        "west": { "uv": [0, 0, 14, 1], "texture": "#missing" },
         "up": { "uv": [0, 2, 13, 14], "rotation": 90, "texture": "#1" },
         "down": { "uv": [0, 0, 12, 13], "texture": "#0" }
       }

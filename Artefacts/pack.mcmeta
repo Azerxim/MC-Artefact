@@ -1,7 +1,7 @@
 {
   "pack": {
     "min_format": 68,
-    "max_format": 75,
-    "description": "Artefact v6.0"
+    "max_format": 97,
+    "description": "Artefact v7.0"
   }
 }

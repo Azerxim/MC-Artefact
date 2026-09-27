@@ -1,7 +1,8 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "minecraft:extended_equipment/stone_tonfa"
+    "0": "minecraft:extended_equipment/stone_tonfa",
+    "particle": "#0"
   },
   "elements": [
     {

@@ -1,5 +1,11 @@
 # 🏺 Artefacts CIT
 
+<p align="center">
+  <img src="Artefacts/pack.png" alt="Artefacts logo" width="128">
+  &nbsp;&nbsp;&nbsp;
+  <img src="Artefacts%20Plus/pack.png" alt="Artefacts Plus logo" width="128">
+</p>
+
 **CIT resource pack with 2D and 3D models — no Optifine required.**
 
 Artefacts CIT adds custom-modeled equipment and decorative items to vanilla Minecraft using item model predicates (custom model data), so you get true CIT-style item reskins **without needing Optifine** or any client mod.
@@ -39,6 +45,15 @@ A **Plus** version is also available, which folds in additional models ported fr
 
 Reworked to function without Optifine, for an even larger item selection.
 
+## 🆕 What's new (26.3 update)
+
+- Support for **Minecraft 26.3** (resource pack format 97).
+- New pack icons for **Artefacts** and **Artefacts Plus**.
+- Fixed the PlayStation console models (missing textures) and the *PlayStation Headphones* model in the Plus edition.
+- Fixed untextured faces showing the missing texture on the *Couronne du Prince Clerc*, the *Sainte Mitre* and several maeflowers models (towels, curtains, fridges…).
+- Plus edition: fixed the bucket sinks (`Bucket_sink_1`–`3`) that no longer loaded, and removed unused horn models.
+- Lighter *PlayStation TV* loading screen texture (1024×512).
+
 ## 🕹️ How to use
 
 1. Download and install the resource pack into `.minecraft/resourcepacks`, then enable it in **Options → Resource Packs**.
@@ -47,7 +62,7 @@ Reworked to function without Optifine, for an even larger item selection.
 
 | | |
 |---|---|
-| **Minecraft versions** | 1.19.4 · 1.20–1.20.2 · 1.21.x · 26.1.x · 26.2 |
+| **Minecraft versions** | 1.19.4 · 1.20–1.20.2 · 1.21.x · 26.1.x · 26.2 · 26.3 |
 | **Type** | Resource Pack (client-side) |
 | **Resolution** | 16x |
 | **License** | MIT |
