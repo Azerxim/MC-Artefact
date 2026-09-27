@@ -1,7 +1,8 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "minecraft:extended_equipment/shield/arm_shield/arm_shield_golden"
+    "0": "minecraft:extended_equipment/shield/arm_shield/arm_shield_golden",
+    "particle": "#0"
   },
   "elements": [
     {
